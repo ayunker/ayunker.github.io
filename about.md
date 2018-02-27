@@ -4,6 +4,4 @@ title: about
 permalink: /about/
 ---
 
-hi, I'm Tony.
-
-I'm a big fan of programming, but also coffee and Field Notes and other stationary stuff. 
+hi, I'm Tony. I like coffee, programming, Field Notes, pens, pencils and bad puns.
