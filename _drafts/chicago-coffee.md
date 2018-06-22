@@ -13,11 +13,11 @@ Chicago actually has a pretty big coffee scene, thought it feels like it often g
 
 I wish I had kept better notes earlier on, so some of this is just based off my (foggy) memory:
 
-[**Metroplis**](https://www.metropoliscoffee.com/) - This is one of, if not my favorite, roasters. Consistently great, consistently a few bucks cheaper than other roasters for comparable beans. I've tried a handful of new beans (Papua New Guinea, Ecuador), as well as some staples (Brazil, Rwanda) and enjoyed them all. It doesn't hurt that I don't even have to cross the street to pick up their beans at [Dollop](https://www.dollopcoffee.com/).
+**[Metroplis](https://www.metropoliscoffee.com/)** - This is one of, if not my favorite, roasters. Consistently great, consistently a few bucks cheaper than other roasters for comparable beans. I've tried a handful of new beans (Papua New Guinea, Ecuador), as well as some staples (Brazil, Rwanda) and enjoyed them all. It doesn't hurt that I don't even have to cross the street to pick up their beans at [Dollop](https://www.dollopcoffee.com/).
 
 In particular, the Papua New Guinea Keto Tapasi was easily my favorite from Metropolis. This was my first coffee from Papua New Guinea, and I was a little skeptical because it was something new and not really known as a powerhouse region for coffee production. I was very impressed with the cups I brewed, it was very balanced and smooth, sweet but not too sweet. I wish I had bought a second bag of this.
 
-**[Intelligentsia]()** - Probably the biggest roaster here in Chicago, and one of the big players in third wave coffee. 
+**[Intelligentsia]()** - Probably the biggest roaster here in Chicago, and one of the big players in third wave coffee. They're a major force in the city, and their beans are always very good but it always feels a little bit 'big box'. I just don't get the same vibe or wow factor as I do at the smaller roasters here. The beans are always a safe bet, and always have some good seasonal blends and single origins on hand, just not where my coffee heart lies. 
 
 **[Dark Matter]()** - The Dark Matter cafes are easily my favorite cafes to hang out in the city. Best vibe/community feeling, hands down. 
 
@@ -27,6 +27,18 @@ They do a lot of experimental stuff with their coffees, fermenting and aging in 
 
 **[Groundswell]()** - Picked these beans up on a lovely springtime walk back to work from [Field Notes](https://fieldnotesbrand.com/). Actually, I think it was February but it was like 50+ degrees out and wonderful. Anyways, the barista on duty was super enthusiastic and helpful in helping me choose my beans, going in to the different flavors and mouthfeel and experience the different beans would have. I got some Ethiopian beans. They were really good, but I realized about half way through the bag that I was getting tired of Ethiopian beans and probably should have changed it up. 
 
-**Passionhouse**
-- Very good Ethiopians (the one that got me tired of it for Groundswell)
-- Used their brew recipe for beehouse and produced some dynamite cups. A little underextracted, but I really started to enjoy that method.
+**P[assionhouse]()** - I visited the cafe in snowy Logan Square on a much needed day off from work. I had a pour over with some Ethiopian beans as I sat by the window. The pour over was so good I ended up picking up some beans to brew at home. 
+
+The beans were Ethiopia Sidama Guji, one of their M genre beans (**A** Ambiant, blends, **M** Mainstream, single origin, **E** Experimental, single origin micro lots grown/processed in unique ways). Using Passionhouse's [brew recipe]() for beehouse, I was able to brew some dynamite cups - a little on the underextracted side, but these beans lent themselves well to that. 
+
+**[Halfwit]()** - Halfwit has been around for a while, and their cafe Wormhole is a Wicker Park staple (there's a DeLorean in there!). Their beans are solid, I can't remember which ones I got though.
+
+**[Gaslight]()** - I feel like Gaslight is better known for their espresso than their filter coffee. I had a really good cortado in 
+their Logan Square cafe, and brought home some beans of African Origin. All I remember is it took me a long time to finish the beans. I don't think they were bad, more likely I was going through a down phase in my coffee consumption (it happens sometimes!)
+
+## Conclusion
+
+I'm not sure if there's much of a conclusion here other than there's a lot of great coffee in Chicago, and it's all worth trying out! There were a few roasters I haven't had a chance to try yet, and I fully intend to grab a bag of their beans in the coming year.
+
+
+
