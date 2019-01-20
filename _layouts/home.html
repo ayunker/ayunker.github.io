@@ -13,7 +13,7 @@ layout: default
       <li>
         {% assign date_format = "%Y-%m-%d" %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        <a style="text-decoration:none;" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
       </li>
     {% endfor %}
   </ul>
