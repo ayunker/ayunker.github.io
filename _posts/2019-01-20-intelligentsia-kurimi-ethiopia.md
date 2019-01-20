@@ -16,7 +16,7 @@ This year's Kurimi delivers the mesmerizing floral aromatics that are it's trade
 **Thoughts**
 Very tasty, light and bright.
 My first African of the season and I'm happy to be back.
-Nice light fruit notes as it goes down
+Nice light fruit notes as it goes down.
 
 **Brew Method**
 Beehouse, [Stumptown recipe](https://www.stumptowncoffee.com/brew-guides/bee-house)
