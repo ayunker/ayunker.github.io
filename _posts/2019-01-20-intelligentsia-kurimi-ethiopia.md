@@ -20,3 +20,5 @@ Nice light fruit notes as it goes down.
 
 **Brew Method**
 Beehouse, [Stumptown recipe](https://www.stumptowncoffee.com/brew-guides/bee-house)
+
+<img src="/assets/images/cr-1-1.jpg" alt="the coffee" width="250"/>
