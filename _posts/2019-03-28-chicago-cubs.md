@@ -1,7 +1,7 @@
 ---
 layout: post
 title: the 2019 chicago cubs
-date: 2019-03-27
+date: 2019-03-28
 categories: chicago baseball
 ---
 
