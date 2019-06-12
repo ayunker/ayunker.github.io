@@ -12,5 +12,3 @@ Thankfully, the ride was relatively uneventful. My route was: west on Grand, jog
 The evening ride was busier - more bicyclists, and more cars willing block the bike lane. I guess people are more in a rush to get home.
 
 I definitely plan on bicycling to work more, it's about the same amount of time as taking the bus, it's a light workout and it's fun. I imagine it will get easier and quicker as I get more used to it.
-
-
