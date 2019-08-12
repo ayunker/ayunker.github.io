@@ -10,6 +10,8 @@ I’m always interested in seeing [other][newsprint] [people’s][cj] [home][sha
 I figured I’d write a bit about mine, particularly since I recently made a significant change. 
 Writing might help me really evaluate if this is working for me.
 
+![home screen][my_home_screen]
+
 I wanted to simplify things down, and get everything on a singe page. 
 There were a couple of reasons for doing this:
 
@@ -26,7 +28,7 @@ Comes in handy when I often use my phone one-handed with my short thumbs.
 Sure, some are buried in folders, but with the way I bucketed my apps, it's easy to see if I have social media notifications, banking notifications, system/app update notifications, etc.
 
 4. Deciding on new apps - new apps create a second home screen. 
-This annoys me now that I'm used to a single home screen. 
+This annoys me now that I've gotten  used to a single home screen. 
 I have to evaluate if the app is worthwhile; if it is, find a home for it on the first screen. 
 Then I'm back down to one home screen, and I have found my zen.
 
@@ -35,6 +37,7 @@ It's been a month or two now and I'm really enjoying it.
 I don't see myself going back to multiple home screens, but that could change at any point. 
 I'll keep you updated.
 
+[my_home_screen]: /assets/images/home-screen-1.png
 [newsprint]: https://thenewsprint.co/2018/01/02/my-iphone-x-homescreen/
 [cj]: https://www.cjchilvers.com/blog/home-screens
 [shawn]: https://shawnblanc.net/2017/12/iphone-x-home-screen-december-2017/
