@@ -1,7 +1,7 @@
 ---
 layout: post
 title: my homescreen
-date: 2019-07-31
+date: 2019-08-11
 categories: phone
 ---
 
