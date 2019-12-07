@@ -15,7 +15,7 @@ Anyways, I figured I'd try to rank these in terms of my most favorite. Going to 
 
 ### Colors Editions
 
-*(Preamble: I've limited these to Colors Editions that I own. I started my Colors Subscription with Cold Horizon, and have backfilled Drink Local, Night Sky, and American The Beautiful (thanks Kat!!)).*
+*(Preamble: I've limited these to Colors Editions that I own. I started my Colors Subscription with Cold Horizon, and have backfilled Drink Local, Night Sky, and America The Beautiful (thanks Kat!!)).*
 
 1. [Drink Local][drink_local]
 2. [America the Beautiful][america_the_beautiful]
