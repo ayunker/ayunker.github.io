@@ -1,6 +1,6 @@
 ---
 layout: page
-title: reading log
+title: reading
 ---
 
 **The Wind-up Bird Chronicle**\\
