@@ -32,5 +32,5 @@ exclude:
   - Gemfile.lock
 header_pages:
   - lists/coffee.md
-  - lists/books.md
+  - lists/reading.md
   - about.md
