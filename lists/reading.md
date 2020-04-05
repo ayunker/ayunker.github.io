@@ -3,6 +3,15 @@ layout: page
 title: reading
 ---
 
+**The Catcher in the Rye**\\
+<span class="grey-text">JD Sallinger 202-03-21</span>
+
+**A Journey to the Centre of the Earth**\\
+<span class="grey-text">Jules Verne \| 2020-02-16</span>
+
+**The Silent Patient** 🐻\\
+<span class="grey-text">Alex Michaelides \| 2020-01-08</span>
+
 **The Wind-up Bird Chronicle**\\
 <span class="grey-text">Haruki Murakami \| 2019-12-30</span>
 
