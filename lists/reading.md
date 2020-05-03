@@ -3,8 +3,11 @@ layout: page
 title: reading
 ---
 
+**Police**\\
+<span class="grey-text">Jo Nesbo \| 2020-04-11</span>
+
 **The Catcher in the Rye**\\
-<span class="grey-text">JD Sallinger 202-03-21</span>
+<span class="grey-text">JD Sallinger \| 2020-03-21</span>
 
 **A Journey to the Centre of the Earth**\\
 <span class="grey-text">Jules Verne \| 2020-02-16</span>
