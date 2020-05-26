@@ -5,17 +5,17 @@ date: 2020-05-15
 categories: coffee
 ---
 
-When lockdown started, Kat and I decided to get a Moka Pot for home, and it was
-the best decision we've made. It allowed us to start the day with a shared coffee ritual,
-together, and to hone the recipe for the devilishly difficult cafecito. Just
-kidding, the cafecito is pretty straightforward to make. There are probably many
-recipes like it, but this is ours.
+When lockdown started, Kat and I decided to get a moka Pot for home, and it was
+the best decision we've made. It allowed us to start the day with a shared
+coffee ritual, together, and to hone the recipe for the devilishly difficult
+cafecito. Just kidding, the cafecito is pretty straightforward to make. There
+are probably many recipes like it, but this is ours.
 
-We use a [6-cup bialetti moka pot][the_pot], but any size will do, just have to
-adjust the recipe. The downside to the moka pot is you have to make the full
-pot, can't do a half batch or anything. However, the 6-cup works really well for
-2 (maybe oversized) cafecitos. Nothing wrong with getting the day started with a
-double, is there?
+We use a [6-cup bialetti moka pot][the_pot], but any size will do, you just
+have to adjust the recipe. The downside to the moka pot is you have to make the
+full pot, can't do a half batch or anything. However, the 6-cup works really
+well for 2 (maybe oversized) cafecitos. Nothing wrong with getting the day
+started with a double, is there?
 
 We've tried a few different coffees from the store, and our current favorite is
 the [illy Classico][illy_classico]. I plan to try Intelligentsia's [Black Cat
@@ -34,7 +34,8 @@ when things go bad...
    of the pressure release valve, about 280 grams.
 4. Screw the top of the pot on to the base. Be firm, yet gentle.
 5. Put the moka pot on the stove, on the smallest burner. Pop the lid open, and
-   set the heat to medium-low.
+   set the heat to medium-low. For us this is #4-5 out of 10, but YSMV (Your
+Stove May Vary).
 6. Watch the liquid goodness start streaming out. There's a balance here, too
    slow and you'll want to turn up the heat. But if it's coming too fast and
 spurting coffee, it's too hot and you'll want to turn the heat down.
@@ -44,12 +45,13 @@ spurting coffee, it's too hot and you'll want to turn the heat down.
    into the cup, and mix with the sugar. The goal is to make a thick sugar
 coffee paste. It's delicious, but try to save some for the rest of the coffee.
 If there's still sugar that hasn't been pastified, add a few more drops of
-coffee. Be warned: It's really easy to add too much coffee and the paste to become too
-watery, so start with less than you think. All that being said, I don't know if
-this impacts the overall drink much. But at the very least, it's more fun to
-make with a thick paste.
+coffee. **Be warned:** It's really easy to add too much coffee and the paste to
+become too watery, so start with less than you think. All that being said, I
+don't know if this impacts the overall drink much. But at the very least, it's
+more fun to make the thick paste.
 9. Once the paste has been made, pour the remaining coffee into the cups. A few
-   stirs will get the paste all mixed in, and then it's ready to be enjoyed.
+   stirs will get the sugar paste all mixed in, and then it's ready to be
+enjoyed.
 
 
 
