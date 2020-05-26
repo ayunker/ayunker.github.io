@@ -3,6 +3,12 @@ layout: page
 title: reading
 ---
 
+**The Old Man and the Sea**\\
+<span class="grey-text">Ernest Hemingway \| 2020-05-14</span>
+
+**The Seven Deaths of Evelyn Hardcastle**\\
+<span class="grey-text">Stuart Turton \| 2020-05-04</span>
+
 **Police**\\
 <span class="grey-text">Jo Nesbo \| 2020-04-11</span>
 

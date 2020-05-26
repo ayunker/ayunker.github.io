@@ -3,6 +3,12 @@ layout: page
 title: coffee
 ---
 
+**Peru El Goyo**\\
+<span class="grey-text">Metric Coffee</span>
+
+**Colombia Lisandro Cardenas**\\
+<span class="grey-text">Metric Coffee</span>
+
 **Colombia Maria Elsy Chavez**\\
 <span class="grey-text">Metric Coffee</span>
 
