@@ -9,7 +9,7 @@ When lockdown started, Kat and I decided to get a Moka Pot for home, and it was
 the best decision we've made. It allowed us to start the day with a shared coffee ritual,
 together, and to hone the recipe for the devilishly difficult cafecito. Just
 kidding, the cafecito is pretty straightforward to make. There are probably many
-recipes like it, but this is ours. 
+recipes like it, but this is ours.
 
 We use a [6-cup bialetti moka pot][the_pot], but any size will do, just have to
 adjust the recipe. The downside to the moka pot is you have to make the full
@@ -29,9 +29,9 @@ so here we go:
 1. Pre-heat some water in a kettle, I bring it all the way to a boil.
 2. Spoon 21 grams of espresso ground coffee into the basket. Tap it gently on
    the sides to level it out. No need to compress the grounds at all, that's
-when things go bad... 
+when things go bad...
 3. Pour the hot water into the base of the moka pot all the way up to the bottom
-   of the pressure release valve, about 280 grams. 
+   of the pressure release valve, about 280 grams.
 4. Screw the top of the pot on to the base. Be firm, yet gentle.
 5. Put the moka pot on the stove, on the smallest burner. Pop the lid open, and
    set the heat to medium-low.
