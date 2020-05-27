@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cafecito
+title: cafecito
 date: 2020-05-15
 categories: coffee
 ---
@@ -30,6 +30,10 @@ so here we go:
 2. Spoon 21 grams of espresso ground coffee into the basket. Tap it gently on
    the sides to level it out. No need to compress the grounds at all, that's
 when things go bad...
+
+![][basket_image]
+
+{:start='3'}
 3. Pour the hot water into the base of the moka pot all the way up to the bottom
    of the pressure release valve, about 280 grams.
 4. Screw the top of the pot on to the base. Be firm, yet gentle.
@@ -39,6 +43,10 @@ Stove May Vary).
 6. Watch the liquid goodness start streaming out. There's a balance here, too
    slow and you'll want to turn up the heat. But if it's coming too fast and
 spurting coffee, it's too hot and you'll want to turn the heat down.
+
+![][first_brew_image]
+
+{:start='7'}
 7. Once it starts to gurgle, take the moka pot off the stove, and run the base
    under cold water to stop the percolation.
 8. In each of your two cups, add 1 teaspoon of sugar. Pour a few drops of coffee
@@ -49,6 +57,10 @@ coffee. **Be warned:** It's really easy to add too much coffee and the paste to
 become too watery, so start with less than you think. All that being said, I
 don't know if this impacts the overall drink much. But at the very least, it's
 more fun to make the thick paste.
+
+![][sugar_paste_image]
+
+{:start='9'}
 9. Once the paste has been made, pour the remaining coffee into the cups. A few
    stirs will get the sugar paste all mixed in, and then it's ready to be
 enjoyed.
@@ -59,3 +71,10 @@ enjoyed.
 [illy_classico]: https://www.illy.com/en-us/shop/coffee/ground-coffee/ground-espresso-coffee-medium-roast-classico/8842ST.html?cgid=57513
 [black_cat]: https://www.intelligentsiacoffee.com/black-cat-classic-espresso
 [unicorn_blood]: https://www.darkmattercoffee.com/products/unicorn-blood-espresso-blend
+
+[basket_image]: /assets/images/cafecito-1.jpg
+{:width='75%'}
+[first_brew_image]: /assets/images/cafecito-2.jpg
+{:width='75%'}
+[sugar_paste_image]: /assets/images/cafecito-3.jpg
+{:width='75%'}
