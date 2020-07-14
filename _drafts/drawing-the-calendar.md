@@ -6,7 +6,7 @@ title: drawing the calendar
 ---
 
 I first read [this blog post][craigs-post] by Craig Mod a few years ago - but I was instantly mesmerized.
-I revisited the post recently, and it's just as inspirational as the first time I read it.
+I revisited the post recently, and it's just as inspiring as the first time I read it.
 
 I decided to try drawing the calendar again, hoping the meditative act will help me out - to calm and focus the mind.
 I had done this before when I first read the blog post, but fell out of the habit after a few months.
@@ -40,7 +40,7 @@ Not super long, but something I can reasonably do on a regular basis, and that c
 
 <br/>
 
-I think what I like so much about Craig's post, and most of what he writes, is about the intimate relationship between you, the tools, and the process.
+I think what I like so much about Craig's post, and most of what he writes, is about the relationship between you, the tools, and the process.
 
 Sure, you could just use an app on your phone to do this.
 But it's not as personal.
