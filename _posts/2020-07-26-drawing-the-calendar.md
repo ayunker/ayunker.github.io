@@ -1,8 +1,7 @@
 ---
 layout: post
 title: drawing the calendar
-# TODO date
-# TODO categories
+date: 2020-07-26
 ---
 
 I first read [this blog post][craigs-post] by Craig Mod a few years ago - but I was instantly mesmerized.
