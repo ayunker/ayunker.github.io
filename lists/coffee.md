@@ -3,6 +3,15 @@ layout: page
 title: coffee
 ---
 
+**Ethiopia Metad Alaka**\\
+<span class="grey-text">Intelligentsia</span>
+
+**Summer Solstice** 🐻\\\
+<span class="grey-text">Intelligentsia</span>
+
+**Colombia Nelson Chaves**\\
+<span class="grey-text">Metric Coffee</span>
+
 **Peru El Goyo**\\
 <span class="grey-text">Metric Coffee</span>
 

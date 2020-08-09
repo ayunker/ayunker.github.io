@@ -3,6 +3,15 @@ layout: page
 title: reading
 ---
 
+**Sourdough**\\
+<span class="grey-text">Robin Sloan \| 2020-08-01</span>
+
+**A Meditation on Murder (A Death in Paradise Mystery)**\\
+<span class="grey-text">Robert Thorogood \| 2020-06-??</span>
+
+**The Bat**\\
+<span class="grey-text">Jo Nesbo \| 2020-06-05</span>
+
 **The Old Man and the Sea**\\
 <span class="grey-text">Ernest Hemingway \| 2020-05-14</span>
 
