@@ -3,10 +3,13 @@ layout: page
 title: coffee
 ---
 
+**Ethiopia Kayon Mountain**\\
+<span class="grey-text">Conscious Cup Coffee Roasters</span>
+
 **Ethiopia Metad Alaka**\\
 <span class="grey-text">Intelligentsia</span>
 
-**Summer Solstice** 🐻\\\
+**Summer Solstice** 🐻 \\
 <span class="grey-text">Intelligentsia</span>
 
 **Colombia Nelson Chaves**\\
@@ -31,7 +34,7 @@ title: coffee
 <span class="grey-text">Dark Matter Coffee </span>
 
 **Costa Rica Las Lajas**\\
-<span class="grey-text">Conscious Cup Coffee Roasters </span>
+<span class="grey-text">Conscious Cup Coffee Roasters</span>
 
 **Ancestros Espresso**\\
 <span class="grey-text">Merit Coffee</span>

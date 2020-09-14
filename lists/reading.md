@@ -3,11 +3,17 @@ layout: page
 title: reading
 ---
 
+**Abel's Island**\\
+<span class="grey-text">William Steig \| 2020-09-09</span>
+
+**Atomic Habits**\\
+<span class="grey-text">James Clear \| 2020-09-04</span>
+
 **Sourdough**\\
 <span class="grey-text">Robin Sloan \| 2020-08-01</span>
 
 **A Meditation on Murder (A Death in Paradise Mystery)**\\
-<span class="grey-text">Robert Thorogood \| 2020-06-??</span>
+<span class="grey-text">Robert Thorogood \| 2020-06-21</span>
 
 **The Bat**\\
 <span class="grey-text">Jo Nesbo \| 2020-06-05</span>
