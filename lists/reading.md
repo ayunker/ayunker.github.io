@@ -3,6 +3,9 @@ layout: page
 title: reading
 ---
 
+**The Killing of Polly Carter (A Death in Paradise Mystery)**\\
+<span class="grey-text">Robert Thorogood \| 2020-09-24</span>
+
 **Abel's Island**\\
 <span class="grey-text">William Steig \| 2020-09-09</span>
 

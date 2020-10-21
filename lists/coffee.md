@@ -2,6 +2,11 @@
 layout: page
 title: coffee
 ---
+**Mexico Finca Chelín Honey Geisha** 🐻 \\
+<span class="grey-text">Intelligentsia</span>
+
+**Summer Solstice** 🐻 \\
+<span class="grey-text">Intelligentsia</span>
 
 **Ethiopia Kayon Mountain**\\
 <span class="grey-text">Conscious Cup Coffee Roasters</span>
