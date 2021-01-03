@@ -2,6 +2,18 @@
 layout: page
 title: coffee
 ---
+**Costa Rica Farmers Project**\\
+<span class="grey-text">Big Shoulders</span>
+
+**Guatemala la Soledad Geisha**\\
+<span class="grey-text">Intelligentsia</span>
+
+**Great Lakes Blend**\\
+<span class="grey-text">Intelligentsia</span>
+
+**Costa Rica Javier Solis Black Honey**\\
+<span class="grey-text">Metric Coffee</span>
+
 **Mexico Finca Chelín Honey Geisha** 🐻 \\
 <span class="grey-text">Intelligentsia</span>
 

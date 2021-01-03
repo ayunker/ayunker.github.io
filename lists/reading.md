@@ -2,6 +2,14 @@
 layout: page
 title: reading
 ---
+**The Midnight Library**\\
+<span class="grey-text">Matt Haig \| 2020-12-23</span>
+
+**Raven Black**\\
+<span class="grey-text">Ann Cleeves \| 2020-12-12</span>
+
+**20,000 Leagues Under the Sea**\\
+<span class="grey-text">Jules Verne \| 2020-11-23</span>
 
 **The Killing of Polly Carter (A Death in Paradise Mystery)**\\
 <span class="grey-text">Robert Thorogood \| 2020-09-24</span>
