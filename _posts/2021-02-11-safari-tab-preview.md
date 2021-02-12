@@ -19,8 +19,6 @@ wouldn't even be writing this. The steps have been gleaned from [this answer on
 Apple's community support forum][apple_forum_post], but I want to post here for
 posterity (and redundancy).
 
-
-
 1. In a terminal, enable the debug menu in safari:
 ``` sh
 defaults write com.apple.Safari IncludeInternalDebugMenu 1
