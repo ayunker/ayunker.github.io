@@ -2,8 +2,15 @@
 layout: page
 title: reading
 ---
-**The Midnight Library**\\
-<span class="grey-text">Matt Haig \| 2020-12-23</span>
+
+**Blue Lightning**\\
+<span class="grey-text">Ann Cleeves \| 2021-03-04</span>
+
+**Red Bones**\\
+<span class="grey-text">Ann Cleeves \| 2021-02-12</span>
+
+**White Nights**\\
+<span class="grey-text">Ann Cleeves \| 2021-01-20</span>
 
 **Raven Black**\\
 <span class="grey-text">Ann Cleeves \| 2020-12-12</span>

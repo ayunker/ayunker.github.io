@@ -2,6 +2,21 @@
 layout: page
 title: coffee
 ---
+**Colombia Lisandro Cardenas Pink Bourbon** 🐻 \\
+<span class="grey-text">Metric Coffee</span>
+
+**Borealis Blend** \\
+<span class="grey-text">Intelligentsia</span>
+
+**B Loved** \\
+<span class="grey-text">Passion House</span>
+
+**Colombia El Bado** \\
+<span class="grey-text">Intelligentsia</span>
+
+**Borealis Blend** \\
+<span class="grey-text">Intelligentsia</span>
+
 **Costa Rica Farmers Project**\\
 <span class="grey-text">Big Shoulders</span>
 
