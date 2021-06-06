@@ -3,6 +3,12 @@ layout: page
 title: reading
 ---
 
+**Time of Contempt**\\
+<span class="grey-text">Andrzej Sapkowski \| 2021-03-31</span>
+
+**Blood of Elves**\\
+<span class="grey-text">Andrzej Sapkowski \| 2021-03-31</span>
+
 **Blue Lightning**\\
 <span class="grey-text">Ann Cleeves \| 2021-03-04</span>
 
