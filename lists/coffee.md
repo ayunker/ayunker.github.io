@@ -3,6 +3,12 @@ layout: page
 title: coffee
 ---
 
+**Ethiopia Esayas Beriso**\\
+<span class="grey-text">Metric Coffee</span>
+
+**Kenya Karinga AA**\\
+<span class="grey-text">Metric Coffee</span>
+
 **Ethiopia Geta Bore**\\
 <span class="grey-text">Metric Coffee</span>
 

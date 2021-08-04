@@ -3,8 +3,17 @@ layout: page
 title: reading
 ---
 
+**The Checklist Manifesto**\\
+<span class="grey-text">Atul Gawande \| 2021-08-02</span>
+
+**After Dark**\\
+<span class="grey-text">Haruki Murakami \| 2021-07-08</span>
+
+**Baptism of Fire**\\
+<span class="grey-text">Andrzej Sapkowski \| 2021-06-30</span>
+
 **Time of Contempt**\\
-<span class="grey-text">Andrzej Sapkowski \| 2021-03-31</span>
+<span class="grey-text">Andrzej Sapkowski \| 2021-05-27</span>
 
 **Blood of Elves**\\
 <span class="grey-text">Andrzej Sapkowski \| 2021-03-31</span>
@@ -12,7 +21,7 @@ title: reading
 **Blue Lightning**\\
 <span class="grey-text">Ann Cleeves \| 2021-03-04</span>
 
-**Red Bones**\\
+**Red Bones** 🐻\\
 <span class="grey-text">Ann Cleeves \| 2021-02-12</span>
 
 **White Nights**\\
