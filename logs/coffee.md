@@ -3,6 +3,12 @@ layout: page
 title: coffee
 ---
 
+**Costa Rica Solis y Cordero**\\
+<span class="grey-text">Metric Coffee</span>
+
+**Costa Rica Sabanilla**\\
+<span class="grey-text">Conscious Cup Coffee Roasters</span>
+
 **Ethiopia Esayas Beriso**\\
 <span class="grey-text">Metric Coffee</span>
 
