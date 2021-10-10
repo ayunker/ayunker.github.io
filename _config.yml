@@ -31,6 +31,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
 header_pages:
-  - lists/coffee.md
-  - lists/reading.md
+  - logs/coffee.md
+  - logs/reading.md
   - about.md
