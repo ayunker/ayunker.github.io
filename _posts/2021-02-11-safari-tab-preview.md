@@ -4,6 +4,9 @@ title: fixing safari tab preview
 date: 2021-02-11
 ---
 
+*(Editor's note: This setting has been removed in Safari 15. As far as I can
+tell, there's no longer any way to disable this feature.)*
+
 With the update to Safari 14, hovering over a tab generates this large preview:
 
 ![](/assets/images/safari-tab-preview-1.jpg)
