@@ -3,6 +3,18 @@ layout: page
 title: coffee
 ---
 
+**Colorized**\\
+<span class="grey-text">Metric Coffee</span>
+
+**Mexico Ernesto Perez Orea**\\
+<span class="grey-text">Metric Coffee</span>
+
+**Costa Rica La Pachuca**\\
+<span class="grey-text">Intelligentsia</span>
+
+**Peru Puka Soncoo**\\
+<span class="grey-text">Conscious Cup Coffee Roasters</span>
+
 **Costa Rica Solis y Cordero**\\
 <span class="grey-text">Metric Coffee</span>
 

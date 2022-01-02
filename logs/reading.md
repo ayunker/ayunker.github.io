@@ -3,6 +3,15 @@ layout: page
 title: reading
 ---
 
+**The Lady of the Lake**\\
+<span class="grey-text">Andrzej Sapkowski \| 2021-12-06</span>
+
+**Kissa by Kissa** 🐻 \\
+<span class="grey-text"> Craig Mod \| 2021-11-11</span>
+
+**The Tower of the Swallow**\\
+<span class="grey-text">Andrzej Sapkowski \| 2021-10-21</span>
+
 **The Checklist Manifesto**\\
 <span class="grey-text">Atul Gawande \| 2021-08-02</span>
 
