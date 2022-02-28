@@ -3,6 +3,12 @@ layout: page
 title: coffee
 ---
 
+**Honduras La Communion**\\
+<span class="grey-text">Metric Coffee</span>
+
+**Colorized**\\
+<span class="grey-text">Metric Coffee</span>
+
 **Colorized**\\
 <span class="grey-text">Metric Coffee</span>
 

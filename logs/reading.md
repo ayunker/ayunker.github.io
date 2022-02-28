@@ -3,6 +3,12 @@ layout: page
 title: reading
 ---
 
+**The Decagon House Murders**\\
+<span class="grey-text">Yukito Ayatsuji \| 2022-01-27</span>
+
+**The Girl with the Dragon Tattoo** 🐻 \\
+<span class="grey-text">Stieg Larsson \| 2022-01-04</span>
+
 **The Lady of the Lake**\\
 <span class="grey-text">Andrzej Sapkowski \| 2021-12-06</span>
 
