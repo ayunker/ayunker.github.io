@@ -3,6 +3,15 @@ layout: page
 title: reading
 ---
 
+**Next to Die** (aka **Every Bed is Narrow** which is a much better title)\\
+<span class="grey-text">Sophie Hannah\| 2022-05-10</span>
+
+**First Person Singular**\\
+<span class="grey-text">Haruki Murakami \| 2022-04-07</span>
+
+**The Maidens**\\
+<span class="grey-text">Alex Michaelides \| 2022-03-01</span>
+
 **The Decagon House Murders**\\
 <span class="grey-text">Yukito Ayatsuji \| 2022-01-27</span>
 
