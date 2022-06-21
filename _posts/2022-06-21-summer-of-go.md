@@ -32,8 +32,8 @@ starting point to learning more about the inner workings of programming
 language design.
 
 The plan is to work on this a couple of mornings or evenings a week in small
-pieces and see how that goes. I have no idea if end of summer is an ambitious or
-easy or just right goal, but we'll see how it goes.
+pieces. I have no idea if end of summer is an ambitious or easy or just right
+goal, but we'll see how it goes.
 
 And who knows, maybe when I finish this I'll have time to Fall into Rust 🍂🦞.
 
