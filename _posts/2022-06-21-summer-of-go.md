@@ -1,6 +1,6 @@
 ---
 layout: post
-title: summer of go
+title: the summer of go
 date: 2022-06-21
 ---
 
@@ -9,7 +9,7 @@ learn all the things at once, and that never ends well. A couple of the things
 I've been interested in learning are new programming languages, and more
 generally the inner workings of programming languages and their design.
 
-Luckily, I think there's a way for me to cover both of these.
+Luckily, I think there's a way for me to cover both of these this summer.
 
 Of all the languages I'm interested in - [Go][golang], [Rust][rust],
 [Elm][elm], [Haskell][haskell], [ReasonML][resonml], [OCaml][ocaml]...I think
@@ -33,13 +33,14 @@ language design.
 
 The plan is to work on this a couple of mornings or evenings a week in small
 pieces and see how that goes. I have no idea if end of summer is an ambitious or
-conservative or just right goal, but we'll see how it goes.
+easy or just right goal, but we'll see how it goes.
 
-And who knows, maybe when I finish this I'll have time to Fall into Rust.
+And who knows, maybe when I finish this I'll have time to Fall into Rust 🍂🦞.
 
 [golang]: https://go.dev
 [rust]: https://www.rust-lang.org
 [elm]: https://elm-lang.org
+[haskell]: https://www.haskell.org
 [resonml]: https://reasonml.github.io
 [ocaml]: https://ocaml.org
 [learn-go-with-tests]: https://quii.gitbook.io/learn-go-with-tests/
