@@ -1,7 +1,7 @@
 ---
 layout: post
 title: summer of go
-date: 2022-06-20
+date: 2022-06-21
 ---
 
 I've been feeling the itch to learn something new lately. As usual, I want to
