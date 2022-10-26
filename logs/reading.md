@@ -3,6 +3,9 @@ layout: page
 title: reading
 ---
 
+**Closed Casket 🎧**\\
+<span class="grey-text">Sophie Hannah\| 2022-10-13</span>
+
 **Next to Die** (aka **Every Bed is Narrow** which is a much better title)\\
 <span class="grey-text">Sophie Hannah\| 2022-05-10</span>
 
