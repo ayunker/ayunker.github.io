@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resolving SSL Install in Jekyll
+title: resolving SSL install in jekyll
 date: 2022-11-10
 ---
 
