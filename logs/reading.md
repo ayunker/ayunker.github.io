@@ -3,6 +3,12 @@ layout: page
 title: reading
 ---
 
+<span class="grey-text interjection-text">
+  <em>(A </em>
+  🐻
+  <em>denotes a particular favorite)</em>
+</span>
+
 **The Cloisters 🎧**\\
 <span class="grey-text">Katy Hays \| 2022-12-07</span>
 
@@ -131,12 +137,3 @@ title: reading
 
 **A Darker Shade of Magic**\\
 <span class="grey-text">VE Shaub \| 2019-03-1</span>
-
-<br/>
-<br/>
-
-<span class="grey-text">
-  <em>(A </em>
-  🐻
-  <em>denotes a particular favorite)</em>
-</span>

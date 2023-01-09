@@ -3,6 +3,12 @@ layout: page
 title: coffee
 ---
 
+<span class="grey-text interjection-text">
+  <em>(A </em>
+  🐻
+  <em>denotes a particular favorite)</em>
+</span>
+
 **Seismic**\\
 <span class="grey-text">Metric Coffee</span>
 
@@ -161,12 +167,3 @@ title: coffee
 
 **Papua New Guinea AAK**\\
 <span class="grey-text">Conscious Cup Coffee Roasters</span>
-
-<br/>
-<br/>
-
-<span class="grey-text">
-  <em>(A </em>
-  🐻
-  <em>denotes a particular favorite)</em>
-</span>
