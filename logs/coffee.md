@@ -9,6 +9,15 @@ title: coffee
   <em>denotes a particular favorite)</em>
 </span>
 
+**Peru La Palestina Geisha**\\
+<span class="grey-text">Intelligentsia Coffee</span>
+
+**Honduras Tres Cuartos SL-28** 🐻 \\
+<span class="grey-text">Metric Coffee</span>
+
+**Colombia Norberto Olaya**\\
+<span class="grey-text">Big Shoulders</span>
+
 **Seismic**\\
 <span class="grey-text">Metric Coffee</span>
 

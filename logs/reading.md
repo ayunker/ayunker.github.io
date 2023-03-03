@@ -9,6 +9,9 @@ title: reading
   <em>denotes a particular favorite)</em>
 </span>
 
+**A Man Called Ove 🎧**\\
+<span class="grey-text">Fredrik Backman \| 2023-03-01</span>
+
 **The Cloisters 🎧**\\
 <span class="grey-text">Katy Hays \| 2022-12-07</span>
 
