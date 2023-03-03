@@ -31,9 +31,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
 header_pages:
+  - about.md
   - logs/coffee.md
   - logs/reading.md
-  - about.md
 
 jekyll_compose:
   auto_open: true
