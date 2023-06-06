@@ -9,6 +9,12 @@ title: coffee
   <em>denotes a particular favorite)</em>
 </span>
 
+**Tanzania Peaberry**\\
+<span class="grey-text">Conscious Cup Coffee Roasters</span>
+
+**Ethiopia Shakiso Guji**\\
+<span class="grey-text">Big Shoulders</span>
+
 **Peru La Palestina Geisha**\\
 <span class="grey-text">Intelligentsia Coffee</span>
 

@@ -9,6 +9,9 @@ title: reading
   <em>denotes a particular favorite)</em>
 </span>
 
+**Snow Crash**\\
+<span class="grey-text">Neal Stephenson \| 2023-06-05</span>
+
 **A Man Called Ove 🎧**\\
 <span class="grey-text">Fredrik Backman \| 2023-03-01</span>
 
