@@ -9,6 +9,9 @@ title: reading
   <em>denotes a particular favorite)</em>
 </span>
 
+**Neuromancer**\\
+<span class="grey-text">William Gibson \| 2023-07-25</span>
+
 **Snow Crash**\\
 <span class="grey-text">Neal Stephenson \| 2023-06-05</span>
 

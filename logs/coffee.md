@@ -9,6 +9,15 @@ title: coffee
   <em>denotes a particular favorite)</em>
 </span>
 
+**Guatemala Don Higinio**\\
+<span class="grey-text">Dollop Coffee</span>
+
+**Tropical Weather**\\
+<span class="grey-text">Onyx Coffee Roasters</span>
+
+**Finca Tamana**\\
+<span class="grey-text">Tim Wendelboe Coffee</span>
+
 **Tanzania Peaberry**\\
 <span class="grey-text">Conscious Cup Coffee Roasters</span>
 
