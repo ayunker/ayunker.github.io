@@ -1,15 +1,27 @@
 @charset "utf-8";
 
+@font-face {
+  font-family: "alegreya-regular";
+  src: url("../assets/fonts/Alegreya-Regular.woff2");
+}
+
+@font-face {
+  font-family: "alegreyasc";
+  src: url("../assets/fonts/AlegreyaSC-Regular.woff2");
+}
+
 body {
+  font-family: alegreya-regular;
   font-size: 1.2rem;
-  line-height: 1.6;
+  line-height: 1.4;
   margin: 2rem auto;
-  max-width: 40rem;
+  max-width: 50rem;
   padding: 0 1rem;
 }
 
 h1, h2, h3 {
   line-height: 1.2;
+  font-family: alegreyasc;
 }
 
 h1 {
@@ -24,16 +36,8 @@ h3 {
   font-size: 1.4rem; 
 }
 
-nav {
-  font-size: 1.4rem; 
-}
-
 nav a {
   text-decoration: none;
-}
-
-span .page-links {
-  float: right;
 }
 
 a {
@@ -44,17 +48,33 @@ a:hover {
   text-decoration: underline;
 }
 
+.page-link {
+  font-size: 1.2rem;
+  padding-left: 0.5rem;
+}
+
 .site-title {
-  color: steelblue;
+  font-family: alegreyasc;
+  font-size: 1.4rem;
+  color: #073642; // solarized base 02
+}
+
+.post-list a {
+  color: #268bd2; // solarized blue
+}
+
+.post-meta {
+  color: #586e75; // solarized base 01
 }
 
 img {
   display: block;
   margin: 1rem auto;
-  max-width: 40rem;
+  max-width: 50rem;
 }
 
 pre {
+  padding: 0.5rem;
   overflow: auto;
 }
 

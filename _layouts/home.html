@@ -10,8 +10,8 @@ layout: default
     {% for post in site.posts %}
       <li>
         {% assign date_format = "%Y-%m-%d" %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
         <a style="text-decoration:none;" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        <span class="post-meta"><em>({{ post.date | date: date_format }})</em></span>
       </li>
     {% endfor %}
   </ul>
