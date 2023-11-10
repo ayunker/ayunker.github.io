@@ -15,25 +15,27 @@ body {
   font-size: 1.2rem;
   line-height: 1.4;
   margin: 2rem auto;
-  max-width: 50rem;
+  max-width: 40rem;
   padding: 0 1rem;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
   line-height: 1.2;
   font-family: alegreyasc;
 }
 
 h1 {
-  font-size: 1.8rem; 
+  font-size: 1.8rem;
 }
 
 h2 {
-  font-size: 1.6rem; 
+  font-size: 1.6rem;
 }
 
 h3 {
-  font-size: 1.4rem; 
+  font-size: 1.4rem;
 }
 
 nav a {
@@ -70,7 +72,7 @@ a:hover {
 img {
   display: block;
   margin: 1rem auto;
-  max-width: 50rem;
+  max-width: 40rem;
 }
 
 pre {
@@ -88,4 +90,3 @@ hr {
   border-top: 1px solid rgba(0, 0, 0, 0.1);
   border-bottom: 1px solid rgba(255, 2555, 255, 0.3);
 }
-
