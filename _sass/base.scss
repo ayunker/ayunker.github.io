@@ -1,29 +1,38 @@
 @charset "utf-8";
 
 @font-face {
-  font-family: "alegreya-regular";
-  src: url("../assets/fonts/Alegreya-Regular.woff2");
+  font-family: "space-grotesk-regular";
+  src: url("../assets/fonts/SpaceGrotesk-Regular.woff2");
 }
 
 @font-face {
-  font-family: "alegreyasc";
-  src: url("../assets/fonts/AlegreyaSC-Regular.woff2");
+  font-family: "space-grotesk-bold";
+  src: url("../assets/fonts/SpaceGrotesk-Bold.woff2");
+}
+
+@font-face {
+  font-family: "neue-machina-ultrabold";
+  src: url("../assets/fonts/PPNeueMachina-Ultrabold.otf");
 }
 
 body {
-  font-family: alegreya-regular;
+  font-family: space-grotesk-regular;
   font-size: 1.2rem;
-  line-height: 1.4;
+  line-height: 1.6;
   margin: 2rem auto;
-  max-width: 40rem;
+  max-width: 60rem;
   padding: 0 1rem;
+
+  strong {
+    font-family: space-grotesk-bold;
+  }
 }
 
 h1,
 h2,
 h3 {
   line-height: 1.2;
-  font-family: alegreyasc;
+  font-family: neue-machina-ultrabold;
 }
 
 h1 {
@@ -56,7 +65,7 @@ a:hover {
 }
 
 .site-title {
-  font-family: alegreyasc;
+  font-family: neue-machina-ultrabold;
   font-size: 1.4rem;
   color: #073642; // solarized base 02
 }
@@ -72,7 +81,7 @@ a:hover {
 img {
   display: block;
   margin: 1rem auto;
-  max-width: 40rem;
+  max-width: 50rem;
 }
 
 pre {
