@@ -21,6 +21,14 @@ respect your privacy.
 
 Feel free to check out the [source][source].
 
+## Contact
+
+Feel Free to reach out!
+
+* Github: [https://github.com/ayunker](https://github.com/ayunker)
+
+* Email: `#{first_name}#{lastname}@gmail.com`
+
 [field_notes]: https://fieldnotesbrand.com/
 [jekyll]: https://jekyllrb.com/
 [source]: https://github.com/ayunker/ayunker.github.io
