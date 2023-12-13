@@ -9,6 +9,12 @@ title: coffee
   <em>denotes a particular favorite)</em>
 </span>
 
+**1848**\\
+<span class="grey-text">Big Shoulders</span>
+
+**Parasol**\\
+<span class="grey-text">Metric Coffee</span>
+
 **Guatemala Don Higinio**\\
 <span class="grey-text">Dollop Coffee</span>
 

@@ -9,6 +9,15 @@ title: reading
   <em>denotes a particular favorite)</em>
 </span>
 
+**Piranesi**\\
+<span class="grey-text">Susanna Clarke \| 2023-11-24</span>
+
+**Legends & Lattes**\\
+<span class="grey-text">Travis Baldree \| 2023-10-10</span>
+
+**None of This is True 🎧**\\
+<span class="grey-text">Lisa Jewell \| 2023-09-28</span>
+
 **Neuromancer**\\
 <span class="grey-text">William Gibson \| 2023-07-25</span>
 
