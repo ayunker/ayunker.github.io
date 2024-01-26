@@ -9,6 +9,9 @@ title: reading
   <em>denotes a particular favorite)</em>
 </span>
 
+**Klara and the Sun**\\
+<span class="grey-text">Kazuo Ishiguro \| 2024-01-10</span>
+
 **Piranesi**\\
 <span class="grey-text">Susanna Clarke \| 2023-11-24</span>
 
