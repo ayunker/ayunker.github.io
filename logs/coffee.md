@@ -9,6 +9,9 @@ title: coffee
   <em>denotes a particular favorite)</em>
 </span>
 
+**En Masse**\\
+<span class="grey-text">Metric Coffee</span>
+
 **1848**\\
 <span class="grey-text">Big Shoulders</span>
 

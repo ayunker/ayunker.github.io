@@ -9,7 +9,7 @@ title: reading
   <em>denotes a particular favorite)</em>
 </span>
 
-**Klara and the Sun**\\
+**Klara and the Sun 🎧**\\
 <span class="grey-text">Kazuo Ishiguro \| 2024-01-10</span>
 
 **Piranesi**\\
