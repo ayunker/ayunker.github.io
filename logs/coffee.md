@@ -9,8 +9,17 @@ title: coffee
   <em>denotes a particular favorite)</em>
 </span>
 
+**1848**\\
+<span class="grey-text">Big Shoulders</span>
+
+**Dream Team**\\
+<span class="grey-text">Dollop Coffee</span>
+
 **En Masse**\\
 <span class="grey-text">Metric Coffee</span>
+
+**Unicorn Blood**\\
+<span class="grey-text">Dark Matter Coffee</span>
 
 **1848**\\
 <span class="grey-text">Big Shoulders</span>
@@ -178,7 +187,7 @@ title: coffee
 <span class="grey-text">Intelligentsia </span>
 
 **Aqua**\\
-<span class="grey-text">Dark Matter Coffee </span>
+<span class="grey-text">Dark Matter Coffee</span>
 
 **Costa Rica Las Lajas**\\
 <span class="grey-text">Conscious Cup Coffee Roasters</span>

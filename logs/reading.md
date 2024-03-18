@@ -9,6 +9,21 @@ title: reading
   <em>denotes a particular favorite)</em>
 </span>
 
+**The Only One Left 🎧**\\
+<span class="grey-text">Riley Sager \| 2024-03-14</span>
+
+**Hallowe'en Party 🎧**\\
+<span class="grey-text">Agatha Christie \| 2024-03-06</span>
+
+**Tomorrow, and Tomorrow, and Tomorrow 🎧**\\
+<span class="grey-text">Gabrielle Zevin \| 2024-02-19</span>
+
+**The Fury**\\
+<span class="grey-text">Alex Michaelides \| 2024-02-16</span>
+
+**The Shadow of the Wind** 🐻\\
+<span class="grey-text">Carlos Ruiz Zafón \| 2024-01-29</span>
+
 **Klara and the Sun 🎧**\\
 <span class="grey-text">Kazuo Ishiguro \| 2024-01-10</span>
 
