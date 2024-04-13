@@ -9,6 +9,9 @@ title: reading
   <em>denotes a particular favorite)</em>
 </span>
 
+**All Systems Red (Murderbot Diaries #1)**\\
+<span class="grey-text">Martha Wells \| 2024-04-10</span>
+
 **The Only One Left 🎧**\\
 <span class="grey-text">Riley Sager \| 2024-03-14</span>
 
