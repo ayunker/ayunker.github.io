@@ -65,7 +65,7 @@ with dogs.
   notes go in here.
 * [1Password][one_password] - to quote the great [Gary
   Bernhardt](https://usesthis.com/interviews/gary.bernhardt/), everyone should
-  1Password or something like it.
+  use 1Password or something like it.
 * [Firefox (Developer's Edition)][ffde] - Chrome, nor it's derivatives (Brave,
   etc.) appeal to me. Firefox is pretty nice, dev tooling is at least on par
   with Chrome, and Multi-Account Containers are clutch for keeping work,
