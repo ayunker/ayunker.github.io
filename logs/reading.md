@@ -9,6 +9,12 @@ title: reading
   <em>denotes a particular favorite)</em>
 </span>
 
+**How to Solve Your Own Murder 🎧**\\
+<span class="grey-text">Kristen Perrin \| 2024-05-08</span>
+
+**Miss Austen Investigates: The Hapless Milliner 🎧**\\
+<span class="grey-text">Jessica Bull  \| 2024-04-18</span>
+
 **All Systems Red (Murderbot Diaries #1)**\\
 <span class="grey-text">Martha Wells \| 2024-04-10</span>
 

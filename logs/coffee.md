@@ -9,6 +9,18 @@ title: coffee
   <em>denotes a particular favorite)</em>
 </span>
 
+**The Future (Cherry Soda)**\\
+<span class="grey-text">Black & White Roasters</span>
+
+**Colombia El Tambo**\\
+<span class="grey-text">Akron Coffee Roasters</span>
+
+**The Classic**\\
+<span class="grey-text">Black & White Roasters</span>
+
+**En Masse**\\
+<span class="grey-text">Metric Coffee</span>
+
 **1848**\\
 <span class="grey-text">Big Shoulders</span>
 
