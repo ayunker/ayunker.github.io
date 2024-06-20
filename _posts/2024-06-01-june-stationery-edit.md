@@ -1,7 +1,7 @@
 ---
 layout: post
 title: June Stationery Edit
-date: 2024-06-01 14:09 -0500
+date: 2024-06-01
 ---
 A lot of Kat's vloggers do monthly edits to focus or showcase some products.
 She suggested I do the same with my stationery. I have a lot of (too many)
