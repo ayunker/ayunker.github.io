@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Announcing Book.Club
+date: 2024-06-20
 ---
-
-I made a thing! [465book.club][] is a simple web app that lets our book club
-post potential books to read and vote for them to reach a consensus. That's it,
-really.
+I made a thing! [465book.club][book_club] is a simple web app that lets our
+book club post potential books to read and vote for them to reach a consensus.
+That's it, really.
 
 This whole thing was driven by the difficulty we had had in collectively
 deciding what to read next. It involved paper printouts, lots of shrugging and
@@ -19,18 +19,31 @@ made it a lot easier (and less intimidating) to suggest books, too.
 
 ---
 
-Anyways, [465book.club][] is a Rails app that leverages [Turbo Streams][] to
-give it a SPA-like feel an update vote counts in realtime.
+Anyways, [465book.club][book_club] is a Rails app that leverages [Turbo
+Streams][turbo_streams] to give it a SPA-like feel an update vote counts in
+realtime.
 
 The general flow is to create a meeting (ours meets once per month) and start
 adding books. Just need the title, author, and a link to goodreads so its easy
 to check out the deets of a book. Books can be added before meeting, or during.
 
-*screenshot of meeting index, meeting show*
+<div class="inline-img-container">
+  <img
+    src="/assets/images/book-club-1.jpeg"
+    alt="The Meeting Index Page. More of an admin page, really."
+    class="inline-img"
+  />
+
+  <img
+    src="/assets/images/book-club-2.jpeg"
+    alt="Meeting Show Page, with turbo frame to submit books."
+    class="inline-img"
+  />
+</div>
 
 Then we vote, and you can only vote for one book per meeting. Simple enough.
 
-*screenshot of voted book*
+![][vote_image]
 
 I didn't want there to be user accounts. User accounts feel too *official*, and
 requires effort for someone to sign up just to vote for a book. This means
@@ -46,18 +59,19 @@ comes out on top.
 
 
 The coolest feature (to me, at least) is actually bog-standard [Turbo
-Streams][]. Each books is connected to a stream, meaning it's connected to a
-websocket on the server and will be notified anytime the book is updated. What
-this means is that anytime someone votes, the book is updated and the new vote
-count is pushed to the page. So we get realtime vote counts without refreshing
-the page. Neat! It's a surprisingly little amount of code to get this
-functionality. Rails magic at work. [^technical_aside]
+Streams][turbo_streams]. Each books is connected to a stream, meaning it's
+connected to a websocket on the server and will be notified anytime the book is
+updated. What this means is that anytime someone votes, the book is updated and
+the new vote count is pushed to the page. So we get realtime vote counts
+without refreshing the page. Neat! It's a surprisingly little amount of code to
+get this functionality. Rails magic at work. [^technical_aside]
 
 ---
 
-Check out the [source][] on Github! Pull requests welcome, but keep in mind this is
-built for my book club which may operate differently from yours. So I may reject
-features that don't work for our club of books readers. In that case, fork away!
+Check out the [source][source] on Github! Pull requests welcome, but keep in
+mind this is built for my book club which may operate differently from yours.
+So I may reject features that don't work for our club of books readers. In that
+case, fork away!
 
 I've been wanting to build more small apps like this, and had a fun time doing
 so. Hope to make some more like this in the future.
@@ -83,6 +97,14 @@ so. Hope to make some more like this in the future.
     service class could have encapsulated it all? That's probably the way to go
     in a larger, more serious app. 
 
-    I also experimented with using a [counter cache][] on the `Book` to keep
-    track of the votes, but updates to the counter cache didn't trigger a
-    broadcast either, so kinda defeated the purpose. 
+    I also experimented with using a [counter cache][counter_cache] on the 
+    `Book` to keep track of the votes, but updates to the counter cache didn't 
+    trigger a broadcast either, so kinda defeated the purpose. 
+
+[book_club]: https://465book.club
+[turbo_streams]: https://turbo.hotwired.dev/handbook/streams
+[source]: https://github.com/ayunker/book_club
+[counter_cache]: https://guides.rubyonrails.org/association_basics.html#counter-cache
+
+[vote_image]: /assets/images/book-club-1.jpeg
+{:width='45%'}
