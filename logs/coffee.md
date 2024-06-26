@@ -9,6 +9,12 @@ title: coffee
   <em>denotes a particular favorite)</em>
 </span>
 
+**Galactic Standard**\\
+<span class="grey-text">Brandywine Coffee Roasters</span>
+
+**Hayes Valley Espresso**\\
+<span class="grey-text">Blue Bottle Coffee</span>
+
 **The Future (Cherry Soda)**\\
 <span class="grey-text">Black & White Roasters</span>
 
