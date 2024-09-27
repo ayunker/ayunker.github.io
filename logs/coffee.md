@@ -9,6 +9,21 @@ title: coffee
   <em>denotes a particular favorite)</em>
 </span>
 
+**Robot Heart**\\
+<span class="grey-text">Conscious Cup Coffee Roasters</span>
+
+**Penrose Blend**\\
+<span class="grey-text">Little Owl</span>
+
+**1848**\\
+<span class="grey-text">Big Shoulders</span>
+
+**Hayes Valley Espresso**\\
+<span class="grey-text">Blue Bottle Coffee</span>
+
+**Bassline Espresso Blend**\\
+<span class="grey-text">Passion House</span>
+
 **Galactic Standard**\\
 <span class="grey-text">Brandywine Coffee Roasters</span>
 

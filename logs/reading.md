@@ -9,6 +9,9 @@ title: reading
   <em>denotes a particular favorite)</em>
 </span>
 
+**Dune** 🐻\\
+<span class="grey-text">Frank Herbert \| 2024-09-24</span>
+
 **How to Solve Your Own Murder 🎧**\\
 <span class="grey-text">Kristen Perrin \| 2024-05-08</span>
 
