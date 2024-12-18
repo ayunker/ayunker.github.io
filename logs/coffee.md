@@ -9,6 +9,18 @@ title: coffee
   <em>denotes a particular favorite)</em>
 </span>
 
+**Sawada Project X**\\
+<span class="grey-text">Metropolis Coffee</span>
+
+**Skeletor Blood**\\
+<span class="grey-text">Dark Matter Coffee</span>
+
+**Blue Mushroom**\\
+<span class="grey-text">Dark Arts Coffee</span>
+
+**Triforce Blend**\\
+<span class="grey-text">Halfwit Coffee Roasters</span>
+
 **Robot Heart**\\
 <span class="grey-text">Conscious Cup Coffee Roasters</span>
 

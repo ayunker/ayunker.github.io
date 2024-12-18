@@ -9,6 +9,18 @@ title: reading
   <em>denotes a particular favorite)</em>
 </span>
 
+**Welcome to the Hyunam-dong Bookshop** 🐻\\
+<span class="grey-text">Hwang Bo-reum \| 2024-12-18</span>
+
+**One Hundred Shadows** 🐻\\
+<span class="grey-text">Hwang Jungeon \| 2024-12-03</span>
+
+**Rules of Civility** 🐻\\
+<span class="grey-text">Amor Towles \| 2024-11-10</span>
+
+**Dune Messiah** 🐻\\
+<span class="grey-text">Frank Herbert \| 2024-10-30</span>
+
 **Dune** 🐻\\
 <span class="grey-text">Frank Herbert \| 2024-09-24</span>
 
