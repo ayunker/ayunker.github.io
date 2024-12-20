@@ -11,6 +11,16 @@ tame the herd.
 
 ### The Vessel
 
+<div class="thinger">
+  <figure><span>
+    <img src="/assets/images/june-stationery-edit-1.jpg"/>
+  </span></figure>
+  <figure><span>
+  <img src="/assets/images/june-stationery-edit-2.jpg"/>
+  </span></figure>
+</div>
+
+
 <div class="inline-img-container">
   <img
     src="/assets/images/june-stationery-edit-1.jpg"

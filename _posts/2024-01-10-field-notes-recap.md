@@ -1,7 +1,7 @@
 ---
 layout: post
 title: field notes recap
-date: 2024-01-10 
+date: 2024-01-10 20:46 -0600
 ---
 I just published my [2023 Field Notes recap][fn_recap_2023], but I saw a [post
 on instagram][instagram_post] where someone did a recap on their entire Field
@@ -15,10 +15,13 @@ They used to all fit in one [archival box][archival_box], but since 2022 they
 have overflowed and now just sit in piles held together by bands of rubber.
 
 <img
-  src="/assets/images/field-notes-recap-1.jpg"
+  src="/assets/images/field-notes-recap-1.jpg" 
   alt="Field Notes in and around an archival box"
-  style="max-width: 25rem"
 />
+
+{% include image.html 
+  src="/assets/images/field-notes-recap-1.jpg" 
+%}
 
 Some stats:
 * Total: 86
@@ -38,7 +41,6 @@ By Type:
 <img
   src="/assets/images/field-notes-recap-2.jpg"
   alt="Artsy photo of filing system"
-  style="max-width: 25rem"
 />
 *If you can't take artsy photos of your pocket notebooks, what can you?*
 
