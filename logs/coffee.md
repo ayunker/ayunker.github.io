@@ -9,10 +9,16 @@ title: coffee
   <em>denotes a particular favorite)</em>
 </span>
 
+**Unicorn Blood**\\
+<span class="grey-text">Dark Matter Coffee</span>
+
+**Unicorn Blood**\\
+<span class="grey-text">Dark Matter Coffee</span>
+
 **Sawada Project X**\\
 <span class="grey-text">Metropolis Coffee</span>
 
-**Skeletor Blood**\\
+**Skeletor Blood** 🐻\\
 <span class="grey-text">Dark Matter Coffee</span>
 
 **Blue Mushroom**\\

@@ -9,6 +9,9 @@ title: reading
   <em>denotes a particular favorite)</em>
 </span>
 
+**We Solve Murders**\\
+<span class="grey-text">Richard Osman \| 2025-01-04</span>
+
 **Welcome to the Hyunam-dong Bookshop**\\
 <span class="grey-text">Hwang Bo-reum \| 2024-12-18</span>
 
