@@ -8,4 +8,4 @@ draft TITLE:
 	bundle exec jekyll draft {{TITLE}}
 
 promote PATH:
-	bundle exec jekyll publish {{PATH}}
+	bundle exec jekyll publish {{PATH}} --timestamp-format %Y-%m-%d
