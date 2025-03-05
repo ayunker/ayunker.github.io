@@ -9,6 +9,24 @@ title: reading
   <em>denotes a particular favorite)</em>
 </span>
 
+**The Final Act of Juliette Willoughby**\\
+<span class="grey-text">Ellery Lloyd \| 2025-03-04</span>
+
+**The Dallergut Dream Department Store**\\
+<span class="grey-text">Lee Mi-ye \| 2025-02-24</span>
+
+**The Song of Achilles**\\
+<span class="grey-text">Madeleine Miller \| 2025-02-16</span>
+
+**Notes From Underground**\\
+<span class="grey-text">Fyodor Dostoevsky \| 2025-02-04</span>
+
+**Days at the Morisaki Bookshop**\\
+<span class="grey-text">Satoshi Yagisawa \| 2025-01-26</span>
+
+**Children of Dune**\\
+<span class="grey-text">Frank Herbert \| 2025-01-24</span>
+
 **We Solve Murders**\\
 <span class="grey-text">Richard Osman \| 2025-01-04</span>
 

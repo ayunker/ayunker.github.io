@@ -9,6 +9,15 @@ title: coffee
   <em>denotes a particular favorite)</em>
 </span>
 
+**Big Riff**\\
+<span class="grey-text">Metric Coffee</span>
+
+**Dream Team**\\
+<span class="grey-text">Dollop Coffee</span>
+
+**En Masse**\\
+<span class="grey-text">Metric Coffee</span>
+
 **Unicorn Blood**\\
 <span class="grey-text">Dark Matter Coffee</span>
 
