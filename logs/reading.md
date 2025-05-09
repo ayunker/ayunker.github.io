@@ -9,6 +9,18 @@ title: reading
   <em>denotes a particular favorite)</em>
 </span>
 
+**The Three-Body Problem**\\
+<span class="grey-text">Liu Cixin \| 2025-05-05</span>
+
+**And Then There Were None**\\
+<span class="grey-text">Agatha Christie \| 2025-04-18</span>
+
+**Ingrained: The Making of a Craftsman**\\
+<span class="grey-text">Callum Robinson \| 2025-04-07</span>
+
+**You Are Fatally Invited**\\
+<span class="grey-text">Ande Pliego \| 2025-03-20</span>
+
 **The Final Act of Juliette Willoughby**\\
 <span class="grey-text">Ellery Lloyd \| 2025-03-04</span>
 

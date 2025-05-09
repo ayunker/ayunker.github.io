@@ -9,6 +9,18 @@ title: coffee
   <em>denotes a particular favorite)</em>
 </span>
 
+**El Sol**\\
+<span class="grey-text">Devoción Coffee</span>
+
+**Black Velvet**\\
+<span class="grey-text">Atomic Coffee Roasters</span>
+
+**Toro**\\
+<span class="grey-text">Devoción Coffee</span>
+
+**En Masse**\\
+<span class="grey-text">Metric Coffee</span>
+
 **Big Riff**\\
 <span class="grey-text">Metric Coffee</span>
 
