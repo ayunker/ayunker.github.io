@@ -14,13 +14,9 @@ guessed, but it's the quality, not the quantity 😅.
 They used to all fit in one [archival box][archival_box], but since 2022 they
 have overflowed and now just sit in piles held together by bands of rubber.
 
-<img
-  src="/assets/images/field-notes-recap-1.jpg" 
-  alt="Field Notes in and around an archival box"
-/>
-
 {% include image.html 
-  src="/assets/images/field-notes-recap-1.jpg" 
+  src="/assets/images/field-notes-recap/1.jpg" 
+  alt="Field Notes in and around an archival box"
 %}
 
 Some stats:
@@ -38,11 +34,12 @@ By Type:
 * Field Notes one-off: 13
 * Tournament of Books: 2
 
-<img
-  src="/assets/images/field-notes-recap-2.jpg"
-  alt="Artsy photo of filing system"
-/>
-*If you can't take artsy photos of your pocket notebooks, what can you?*
+{% include fig.html
+src="/assets/images/field-notes-recap/2.jpg"
+caption="If you can't take artsy photos of your pocket notebooks, what can
+you?"
+alt="Artsy photo of filing system"
+%}
 
 [fn_recap_2023]: /2024/field-notes-of-2023
 [instagram_post]: https://www.instagram.com/p/CXwEBZ_rxQp/?img_index=1
