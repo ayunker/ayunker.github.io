@@ -9,7 +9,7 @@ tell, there's no longer any way to disable this feature.)*
 
 With the update to Safari 14, hovering over a tab generates this large preview:
 
-![](/assets/images/safari-tab-preview-1.jpg)
+{% include fig.html src="/assets/images/safari-tab-preview/1.jpg" %}
 
 This feature does absolutely nothing for me. The vast majority of the websites
 that I visit are composed of black text on a white background (or vice versa). I
@@ -48,7 +48,7 @@ Chrome also sort of has this feature. But 1) it's not as intrusive (though
 possibly more redundant?), and 2) is easier to turn off. Surprisingly, Chrome
 beats Safari in this round.
 
-<img src="/assets/images/safari-tab-preview-2.jpg" width="50%">
+<img src="/assets/images/safari-tab-preview/2.jpg" width="50%">
 
 1. In Chrome, open `chrome://flags`
 2. Find **Tab Hover Cards**, and set to Disabled. Restart Chrome
