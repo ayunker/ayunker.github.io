@@ -11,25 +11,15 @@ tame the herd.
 
 ### The Vessel
 
-<div class="thinger">
-  <figure><span>
-    <img src="/assets/images/june-stationery-edit-1.jpg"/>
-  </span></figure>
-  <figure><span>
-  <img src="/assets/images/june-stationery-edit-2.jpg"/>
-  </span></figure>
-</div>
-
-
 <div class="inline-img-container">
   <img
-    src="/assets/images/june-stationery-edit-1.jpg"
+    src="/assets/images/june-stationery-edit/1.jpg"
     alt="Sinclair on the window ledge"
     class="inline-img"
   />
 
   <img
-    src="/assets/images/june-stationery-edit-2.jpg"
+    src="/assets/images/june-stationery-edit/2.jpg"
     alt="A look inside the fuzzy Sinclair"
     class="inline-img"
   />
@@ -68,18 +58,11 @@ level as Uni pens for me.
 So yeah, that's it. Not sure if this will be a monthly cadence or what, we'll
 see as we go.
 
-<img
-  src="/assets/images/june-stationery-edit-3.jpg"
-  alt="The loadout next to a trusty Field Notes"
-  style="max-width: 45rem"
-/>
+{% include fig.html src="/assets/images/june-stationery-edit/3.jpg"
+alt="The loadout next to a trusty Field Notes" %}
 
-<img
-  src="/assets/images/june-stationery-edit-4.jpg"
-  alt="Writing samples of the pens"
-  style="max-width: 45rem"
-/>
+{% include fig.html src="/assets/images/june-stationery-edit/4.jpg"
+alt="Writing samples of the pens" %}
 
 
 [sinclair]: https://www.rickshawbags.com/sinclair-model-r
-
