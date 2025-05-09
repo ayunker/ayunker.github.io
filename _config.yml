@@ -30,6 +30,8 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - README.md
+  - justfile
 header_pages:
   - about.md
   - logs/coffee.md
