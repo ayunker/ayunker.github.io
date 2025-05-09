@@ -31,7 +31,7 @@ so here we go:
    the sides to level it out. No need to compress the grounds at all, that's
 when things go bad...
 
-![][basket_image]
+{% include fig.html src="/assets/images/cafecito-recipe/1.jpg" %}
 
 {:start='3'}
 3. Pour the hot water into the base of the moka pot all the way up to the bottom
@@ -44,7 +44,7 @@ Stove May Vary).
    slow and you'll want to turn up the heat. But if it's coming too fast and
 spurting coffee, it's too hot and you'll want to turn the heat down.
 
-![][first_brew_image]
+{% include fig.html src="/assets/images/cafecito-recipe/2.jpg" %}
 
 {:start='7'}
 7. Once it starts to gurgle, take the moka pot off the stove, and run the base
@@ -58,7 +58,7 @@ become too watery, so start with less than you think. All that being said, I
 don't know if this impacts the overall drink much. But at the very least, it's
 more fun to make the thick paste.
 
-![][sugar_paste_image]
+{% include fig.html src="/assets/images/cafecito-recipe/3.jpg" %}
 
 {:start='9'}
 9. Once the paste has been made, pour the remaining coffee into the cups. A few
@@ -71,10 +71,3 @@ enjoyed.
 [illy_classico]: https://www.illy.com/en-us/shop/coffee/ground-coffee/ground-espresso-coffee-medium-roast-classico/8842ST.html?cgid=57513
 [black_cat]: https://www.intelligentsiacoffee.com/black-cat-classic-espresso
 [unicorn_blood]: https://www.darkmattercoffee.com/products/unicorn-blood-espresso-blend
-
-[basket_image]: /assets/images/cafecito-1.jpg
-{:width='75%'}
-[first_brew_image]: /assets/images/cafecito-2.jpg
-{:width='75%'}
-[sugar_paste_image]: /assets/images/cafecito-3.jpg
-{:width='75%'}
