@@ -29,13 +29,13 @@ to check out the deets of a book. Books can be added before meeting, or during.
 
 <div class="inline-img-container">
   <img
-    src="/assets/images/book-club-1.jpeg"
+    src="/assets/images/announcing-book-club/1.jpeg"
     alt="The Meeting Index Page. More of an admin page, really."
     class="inline-img"
   />
 
   <img
-    src="/assets/images/book-club-2.jpeg"
+    src="/assets/images/announcing-book-club/2.jpeg"
     alt="Meeting Show Page, with turbo frame to submit books."
     class="inline-img"
   />
@@ -43,7 +43,7 @@ to check out the deets of a book. Books can be added before meeting, or during.
 
 Then we vote, and you can only vote for one book per meeting. Simple enough.
 
-![][vote_image]
+{% include fig.html src="/assets/images/announcing-book-club/3.jpeg" %}
 
 I didn't want there to be user accounts. User accounts feel too *official*, and
 requires effort for someone to sign up just to vote for a book. This means
@@ -105,6 +105,3 @@ so. Hope to make some more like this in the future.
 [turbo_streams]: https://turbo.hotwired.dev/handbook/streams
 [source]: https://github.com/ayunker/book_club
 [counter_cache]: https://guides.rubyonrails.org/association_basics.html#counter-cache
-
-[vote_image]: /assets/images/book-club-1.jpeg
-{:width='45%'}
