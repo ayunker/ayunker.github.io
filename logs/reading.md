@@ -9,6 +9,9 @@ title: reading
   <em>denotes a particular favorite)</em>
 </span>
 
+**The Word Is Murder**\\
+<span class="grey-text">Anthony Horowitz \| 2025-05-14</span>
+
 **The Three-Body Problem**\\
 <span class="grey-text">Liu Cixin \| 2025-05-05</span>
 
@@ -36,7 +39,7 @@ title: reading
 **Days at the Morisaki Bookshop**\\
 <span class="grey-text">Satoshi Yagisawa \| 2025-01-26</span>
 
-**Children of Dune**\\
+**Children of Dune** \\
 <span class="grey-text">Frank Herbert \| 2025-01-24</span>
 
 **We Solve Murders**\\
