@@ -29,6 +29,9 @@ Feel Free to reach out!
 
 * Email: `#{first_name}@#{lastname}.cc`
 
+* Where the skies are blue:
+[https://bsky.app/profile/ynkr.xyz](https://bsky.app/profile/ynkr.xyz)
+
 [field_notes]: https://fieldnotesbrand.com/
 [jekyll]: https://jekyllrb.com/
 [source]: https://github.com/ayunker/ayunker.github.io
