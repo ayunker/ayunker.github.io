@@ -28,7 +28,7 @@ has an organization tactic to know which are sharp and which need sharpening?
 
 {% include fig.html src="/assets/images/stationery-of-ludwig/pencil-ladder.png"
 caption="The maroon ones look a little like Mitsubishi Uni 9850 (Office Use),
-but the eraser color is wrong." %}
+but the eraser colour is wrong." %}
 {% include fig.html src="/assets/images/stationery-of-ludwig/pencil-sharpener.png" 
 caption="It could only be a KUM 2-hole sharpener" %}
 
@@ -64,7 +64,7 @@ fitting.
 caption="Creating some sudoku, but I have no idea what the top left puzzle is." %}
 
 {% include fig.html src="/assets/images/stationery-of-ludwig/pocket-notebook-2.png" 
-caption="Designing a crossword, putting the different color inks to good use." %}
+caption="Designing a crossword, putting the different colour inks to good use." %}
 
 There's also James' notebook that's fully encoded and fully wrapped in wrapping
 paper. Seems a bit of an odd choice, though I'm known to cover my [notebooks in
@@ -89,10 +89,10 @@ bill.
 {% include fig.html src="/assets/images/stationery-of-ludwig/m10-2.png" %}
 {% include fig.html src="/assets/images/stationery-of-ludwig/m10-3.png" %}
 
-As you can see, the clip is the color of the ink, but the knock is transparent.
-Tough to place. It's not until we get to the finale we see the grip section is
-also transparent (to help see the ink level!). It's not a pen I'd seen before.
-An English exclusive? 
+As you can see, the clip is the colour of the ink, but the knock is
+transparent. Tough to place. It's not until we get to the finale we see the
+grip section is also transparent (to help see the ink level!). It's not a pen
+I'd seen before. An English exclusive?
 
 {% include fig.html src="/assets/images/stationery-of-ludwig/m10-4.png"
 caption="Finally, a full shot of the pen. Had to wait until the finale for the
@@ -116,7 +116,7 @@ Germany so I can try out these bad boys.
 ## Conclusion
 
 So what can we tell about the stationery that Ludwig uses? I'd say he's
-exacting in the stationery he chooses, and favors practicality over luxury.
+exacting in the stationery he chooses, and favours practicality over luxury.
 Pens and pencils and notebooks he can easily stock up on so when one meets its
 end he can easily replace it with the same.
 
