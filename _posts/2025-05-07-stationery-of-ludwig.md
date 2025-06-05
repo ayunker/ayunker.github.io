@@ -20,7 +20,7 @@ We only really get to see Ludwig's puzzle cave in the first episode before he
 sets off to Cambridge, but it's a wonderful setting to introduce the series.
 
 {% include fig.html src="/assets/images/stationery-of-ludwig/puzzle-setter-lair.png"
-caption="Cozy" %}
+caption="Cosy" %}
 
 First we see what I'm going to call the pencil ladder, a great way to keep a
 bunch of pencils to hand, so you can always grab a sharp one. I wonder if he
