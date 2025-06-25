@@ -9,6 +9,15 @@ title: coffee
   <em>denotes a particular favorite)</em>
 </span>
 
+**Fortitude Seasonal Blend**\\
+<span class="grey-text">Groundswell Coffee</span>
+
+**Dream Team**\\
+<span class="grey-text">Dollop Coffee</span>
+
+**Owl's Howl**\\
+<span class="grey-text">Sightglass Coffee</span>
+
 **Unicorn Blood**\\
 <span class="grey-text">Dark Matter Coffee</span>
 

@@ -9,6 +9,21 @@ title: reading
   <em>denotes a particular favorite)</em>
 </span>
 
+**Pattern Recognition** 🐻\\
+<span class="grey-text">William Gibson \| 2025-07-28</span>
+
+**The Dark Forest**\\
+<span class="grey-text">Liu Cixin \| 2025-07-17</span>
+
+**Yeonnam-Dong's Smiley Laundromat**\\
+<span class="grey-text">Kim Jiyun \| 2025-06-23</span>
+
+**How to Seal Your Own Fate**\\
+<span class="grey-text">Kristen Perrin \| 2025-06-10</span>
+
+**The Door-to-Door Bookstore**\\
+<span class="grey-text">Carson Henn \| 2025-05-28</span>
+
 **The Word Is Murder**\\
 <span class="grey-text">Anthony Horowitz \| 2025-05-14</span>
 
