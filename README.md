@@ -3,16 +3,12 @@
 Third time's the charm.
 
 
-## Compress Image
-Requires image magick
+## Image Optimizations
 
-```
-convert input_image.jpg -strip -quality 85 output_image.jpg
-```
+Unfortunately, I don't think there's a 1 size fits all for image optimizations.
+Here are some guidelines/heuristics:
 
-```
-Dir.entries(".").select { File.file?(_1) }.map { system("magick #{_1} -strip -quality 50 #{_1}") }
-```
-
-the quality 85 flag is optional, but can further reduce size without (so far) noticeable reduction in quality
-dropping to quality 50 also seems acceptable
+* For PNG -> JPG, can use MozJPG to convert/compress, leveraging a script
+copped from brandur, `ls assets/images/stationery-of-ludwig/*.png | xargs
+./scripts/optimize_image`. This was used on stationery of ludwig and resulted
+in 91% savings.

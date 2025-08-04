@@ -1,0 +1,50 @@
+#!/usr/bin/env ruby
+
+require "shellwords"
+
+def run_command(command, abort: true)
+  ret = `#{command}`
+  if $? != 0
+    if abort
+      abort("command failed: #{command}")
+    else
+      return false
+    end
+  end
+  ret.strip
+end
+
+SIZE_ORDERS = {
+  "B" => 1024,
+  "kB" => 1024 * 1024,
+  "MB" => 1024 * 1024 * 1024,
+  "GB" => 1024 * 1024 * 1024 * 1024,
+  "TB" => 1024 * 1024 * 1024 * 1024 * 1024
+}
+
+def human_file_size(size)
+  SIZE_ORDERS.each do |unit, s|
+    return "#{(size.to_f / (s / 1024)).round(2)}#{unit}" if size < s
+  end
+end
+
+mozjpeg_path = run_command("brew --prefix mozjpeg")
+cjpeg_path = [mozjpeg_path, "bin", "cjpeg"].join("/")
+
+puts mozjpeg_path
+puts cjpeg_path
+
+ARGV.each do |filename|
+  puts "Optimizing #{filename}"
+
+  dir = File.dirname(filename)
+
+  target_filename = "#{dir}/#{File.basename(filename, ".*")}.jpg"
+
+  run_command("#{cjpeg_path} -quality 75 -outfile #{Shellwords.escape(target_filename)} #{Shellwords.escape(filename)}")
+
+  size = File.size(filename)
+  target_size = File.size(target_filename)
+  saved_percent = 100 - (target_size.to_f / size * 100).round
+  puts "created: #{target_filename} (#{human_file_size(size)} -> #{human_file_size(target_size)} / saved #{saved_percent}%)"
+end

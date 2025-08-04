@@ -19,17 +19,17 @@ it myself - except in blog form.
 We only really get to see Ludwig's puzzle cave in the first episode before he
 sets off to Cambridge, but it's a wonderful setting to introduce the series.
 
-{% include fig.html src="/assets/images/stationery-of-ludwig/puzzle-setter-lair.png"
+{% include fig.html src="/assets/images/stationery-of-ludwig/puzzle-setter-lair.jpg"
 caption="Cosy" %}
 
 First we see what I'm going to call the pencil ladder, a great way to keep a
 bunch of pencils to hand, so you can always grab a sharp one. I wonder if he
 has an organization tactic to know which are sharp and which need sharpening?
 
-{% include fig.html src="/assets/images/stationery-of-ludwig/pencil-ladder.png"
+{% include fig.html src="/assets/images/stationery-of-ludwig/pencil-ladder.jpg"
 caption="The maroon ones look a little like Mitsubishi Uni 9850 (Office Use),
 but the eraser colour is wrong." %}
-{% include fig.html src="/assets/images/stationery-of-ludwig/pencil-sharpener.png" 
+{% include fig.html src="/assets/images/stationery-of-ludwig/pencil-sharpener.jpg" 
 caption="It could only be a KUM 2-hole sharpener" %}
 
 We can also see him using a fountain pen to solve the crossword in the
@@ -38,8 +38,8 @@ puzzle. It's only a quick view of the fountain pen so I can't tell the brand,
 but I would guess Parker, Waterman or Sheaffer - practical and reliable. And
 Diamine ink, surely.
 
-{% include image.html src="/assets/images/stationery-of-ludwig/fountain-pen-crossword-3.png" %}
-{% include image.html src="/assets/images/stationery-of-ludwig/fountain-pen-crossword-2.png" %}
+{% include image.html src="/assets/images/stationery-of-ludwig/fountain-pen-crossword-3.jpg" %}
+{% include image.html src="/assets/images/stationery-of-ludwig/fountain-pen-crossword-2.jpg" %}
 
 Also there's a chalkboard for sketching out puzzles, arranged throughout the
 living room. Almost like that of an eccentric mathematician (compliment, of
@@ -60,10 +60,10 @@ impossible to tell the brand - it's pocket size, black leather-y cover, elastic
 closure band, grid layout. I like to think it's a [Leuchtturm][] though, seems
 fitting.
 
-{% include fig.html src="/assets/images/stationery-of-ludwig/pocket-notebook.png" 
+{% include fig.html src="/assets/images/stationery-of-ludwig/pocket-notebook.jpg" 
 caption="Creating some sudoku, but I have no idea what the top left puzzle is." %}
 
-{% include fig.html src="/assets/images/stationery-of-ludwig/pocket-notebook-2.png" 
+{% include fig.html src="/assets/images/stationery-of-ludwig/pocket-notebook-2.jpg" 
 caption="Designing a crossword, putting the different colour inks to good use." %}
 
 There's also James' notebook that's fully encoded and fully wrapped in wrapping
@@ -71,11 +71,11 @@ paper. Seems a bit of an odd choice, though I'm known to cover my [notebooks in
 stickers][nbowp], and really what's the difference? It's a unique look, and I
 could stare at the pages inside for days.
 
-{% include fig.html src="/assets/images/stationery-of-ludwig/james-notebook.png" %}
-{% include fig.html src="/assets/images/stationery-of-ludwig/james-notebook-3.png"
+{% include fig.html src="/assets/images/stationery-of-ludwig/james-notebook.jpg" %}
+{% include fig.html src="/assets/images/stationery-of-ludwig/james-notebook-3.jpg"
 caption="Looks like 2 layers of wrapping paper? Double duty." %}
-{% include fig.html src="/assets/images/stationery-of-ludwig/james-notebook-2.png" %}
-{% include fig.html src="/assets/images/stationery-of-ludwig/james-notebook-4.png" 
+{% include fig.html src="/assets/images/stationery-of-ludwig/james-notebook-2.jpg" %}
+{% include fig.html src="/assets/images/stationery-of-ludwig/james-notebook-4.jpg" 
 caption="It's all encoded, so who knows what it means. But still, so dope." %}
 
 
@@ -86,15 +86,15 @@ finale before I could finally scry what these were[^m10]. They kind of looked
 like [Pilot G-2s][g2], or [Zebra Sarasas][sarasa] - but neither quite fit the
 bill.
 
-{% include fig.html src="/assets/images/stationery-of-ludwig/m10-2.png" %}
-{% include fig.html src="/assets/images/stationery-of-ludwig/m10-3.png" %}
+{% include fig.html src="/assets/images/stationery-of-ludwig/m10-2.jpg" %}
+{% include fig.html src="/assets/images/stationery-of-ludwig/m10-3.jpg" %}
 
 As you can see, the clip is the colour of the ink, but the knock is
 transparent. Tough to place. It's not until we get to the finale we see the
 grip section is also transparent (to help see the ink level!). It's not a pen
 I'd seen before. An English exclusive?
 
-{% include fig.html src="/assets/images/stationery-of-ludwig/m10-4.png"
+{% include fig.html src="/assets/images/stationery-of-ludwig/m10-4.jpg"
 caption="Finally, a full shot of the pen. Had to wait until the finale for the
 denouement." %}
 
