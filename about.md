@@ -4,9 +4,9 @@ title: about
 permalink: /about/
 ---
 
-I'm a software engineer from Chicago working at Hashrocket. I like coffee,
+I'm a software engineer from Chicago working at [Hashrocket]. I like coffee,
 stationery (especially [Field Notes][field_notes]!), bicycles and our dog
-Pickle.
+pickle.
 
 ## Colophon
 
@@ -32,6 +32,7 @@ Feel Free to reach out!
 * Where the skies are blue:
 [https://bsky.app/profile/ynkr.xyz](https://bsky.app/profile/ynkr.xyz)
 
+[hashrocket]: https://hashrocket.com/
 [field_notes]: https://fieldnotesbrand.com/
 [jekyll]: https://jekyllrb.com/
 [source]: https://github.com/ayunker/ayunker.github.io
