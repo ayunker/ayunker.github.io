@@ -11,15 +11,15 @@ Field Notes HQ - it was awesome.
 In the library, I saw these vintage memo books on the bookshelf and coffee
 table:
 
-{% include fig.html src="/assets/images/vintage-memo-books/1.jpeg"
+{% include fig.html src="/assets/images/vintage-memo-books/1.jpg"
 alt="Dekalb et al"
 caption="3 memo books on the bookshelf" %}
 
-{% include fig.html src="/assets/images/vintage-memo-books/2.jpeg"
+{% include fig.html src="/assets/images/vintage-memo-books/2.jpg"
 alt="Baughs"
 caption="This one was on the coffee table" %}
 
-{% include fig.html src="/assets/images/vintage-memo-books/3.jpeg"
+{% include fig.html src="/assets/images/vintage-memo-books/3.jpg"
 alt="Important dates from Dekalb Memo Book"
 caption="Some important dates from the Dekalb memo book" %}
 
