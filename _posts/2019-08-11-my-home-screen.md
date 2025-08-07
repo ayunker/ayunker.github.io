@@ -37,7 +37,7 @@ It's been a month or two now and I'm really enjoying it.
 I don't see myself going back to multiple home screens, but that could change at any point. 
 I'll keep you updated.
 
-[my_home_screen]: /assets/images/home-screen-1.png
+[my_home_screen]: /assets/images/home-screen-1.jpg
 [newsprint]: https://thenewsprint.co/2018/01/02/my-iphone-x-homescreen/
 [cj]: https://www.cjchilvers.com/blog/home-screens
 [shawn]: https://shawnblanc.net/2017/12/iphone-x-home-screen-december-2017/
