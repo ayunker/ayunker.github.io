@@ -48,7 +48,7 @@ Chrome also sort of has this feature. But 1) it's not as intrusive (though
 possibly more redundant?), and 2) is easier to turn off. Surprisingly, Chrome
 beats Safari in this round.
 
-<img src="/assets/images/safari-tab-preview/2.jpg" width="50%">
+{% include fig.html src="/assets/images/safari-tab-preview/2.jpg" %}
 
 1. In Chrome, open `chrome://flags`
 2. Find **Tab Hover Cards**, and set to Disabled. Restart Chrome
