@@ -9,6 +9,24 @@ title: coffee
   <em>denotes a particular favorite)</em>
 </span>
 
+**Hayes Valley Espresso**\\
+<span class="grey-text">Blue Bottle Coffee</span>
+
+**Station Street**\\
+<span class="grey-text">Conscious Cup Coffee Roasters</span>
+
+**Dream Team**\\
+<span class="grey-text">Dollop Coffee</span>
+
+**Pelican Flickering Resonance**\\
+<span class="grey-text">Dark Matter Coffee</span>
+
+**Wild Forest**\\
+<span class="grey-text">Devoción Coffee</span>
+
+**Honey**\\
+<span class="grey-text">Devoción Coffee</span>
+
 **Fortitude Seasonal Blend**\\
 <span class="grey-text">Groundswell Coffee</span>
 

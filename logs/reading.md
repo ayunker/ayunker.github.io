@@ -9,6 +9,21 @@ title: reading
   <em>denotes a particular favorite)</em>
 </span>
 
+**The Tiffany Girls**\\
+<span class="grey-text">Shelley Noble \| 2025-10-19</span>
+
+**The Thursday Murder Club**\\
+<span class="grey-text">Richard Osman \| 2025-10-08</span>
+
+**Too Old for This**\\
+<span class="grey-text">Samantha Downing \| 2025-09-18</span>
+
+**More Days at the Morisaki Bookshop**\\
+<span class="grey-text">Satoshi Yagisawa \| 2025-08-25</span>
+
+**Vera Wong's Guide to Snooping (On a Dead Man)**\\
+<span class="grey-text">Jesse Q. Sutanto \| 2025-08-09</span>
+
 **Pattern Recognition** 🐻\\
 <span class="grey-text">William Gibson \| 2025-07-28</span>
 
