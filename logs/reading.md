@@ -78,6 +78,8 @@ title: reading
 **We Solve Murders**\\
 <span class="grey-text">Richard Osman \| 2025-01-04</span>
 
+## 2024
+
 **Welcome to the Hyunam-dong Bookshop**\\
 <span class="grey-text">Hwang Bo-reum \| 2024-12-18</span>
 
@@ -120,6 +122,8 @@ title: reading
 **Klara and the Sun 🎧**\\
 <span class="grey-text">Kazuo Ishiguro \| 2024-01-10</span>
 
+## 2023
+
 **Piranesi**\\
 <span class="grey-text">Susanna Clarke \| 2023-11-24</span>
 
@@ -137,6 +141,8 @@ title: reading
 
 **A Man Called Ove 🎧**\\
 <span class="grey-text">Fredrik Backman \| 2023-03-01</span>
+
+## 2022
 
 **The Cloisters 🎧**\\
 <span class="grey-text">Katy Hays \| 2022-12-07</span>
@@ -158,6 +164,8 @@ title: reading
 
 **The Girl with the Dragon Tattoo** 🐻 \\
 <span class="grey-text">Stieg Larsson \| 2022-01-04</span>
+
+## 2021
 
 **The Lady of the Lake**\\
 <span class="grey-text">Andrzej Sapkowski \| 2021-12-06</span>
@@ -191,6 +199,8 @@ title: reading
 
 **White Nights**\\
 <span class="grey-text">Ann Cleeves \| 2021-01-20</span>
+
+## 2020
 
 **Raven Black**\\
 <span class="grey-text">Ann Cleeves \| 2020-12-12</span>
@@ -233,6 +243,8 @@ title: reading
 
 **The Silent Patient** 🐻\\
 <span class="grey-text">Alex Michaelides \| 2020-01-08</span>
+
+## 2019
 
 **The Wind-up Bird Chronicle**\\
 <span class="grey-text">Haruki Murakami \| 2019-12-30</span>
