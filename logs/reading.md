@@ -9,6 +9,9 @@ title: reading
   <em>denotes a particular favorite)</em>
 </span>
 
+**The Most Wonderful Crime of the Year**\\
+<span class="grey-text">Ally Carter \| 2025-11-09</span>
+
 **The Tiffany Girls**\\
 <span class="grey-text">Shelley Noble \| 2025-10-19</span>
 

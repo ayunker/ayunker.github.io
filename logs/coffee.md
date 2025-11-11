@@ -9,6 +9,12 @@ title: coffee
   <em>denotes a particular favorite)</em>
 </span>
 
+**Dream Team**\\
+<span class="grey-text">Dollop Coffee</span>
+
+**1848**\\
+<span class="grey-text">Big Shoulders</span>
+
 **Hayes Valley Espresso**\\
 <span class="grey-text">Blue Bottle Coffee</span>
 
