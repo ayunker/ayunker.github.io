@@ -1,6 +1,6 @@
 ---
 layout: post
-title: the stationery of Ludwig
+title: stationery of Ludwig
 date: 2025-05-07
 ---
 Kat and I just finished [*Ludwig*][ludwig], and it's one of the best shows
