@@ -1,7 +1,7 @@
 ---
 layout: post
 title: stationery of murder before evensong
-date: 2025-12-22
+date: 2026-12-22
 ---
 > *Never underestimate the ice-breaking power of stationery.*
 
