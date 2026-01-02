@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Announcing Book.Club
+title: announcing book.club
 date: 2024-06-20
 ---
 I made a thing! [465book.club][book_club] is a simple web app that lets our

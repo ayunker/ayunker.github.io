@@ -1,6 +1,6 @@
 ---
 layout: post
-title: XOXO Field Notes
+title: XOXO field notes
 date: 2025-02-13
 ---
 [XOXO][xoxo] was a really neat festival that met at the intersection of art and

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: January Bicycling Challenge
+title: january bicycling challenge
 date: 2024-02-02
 ---
 
