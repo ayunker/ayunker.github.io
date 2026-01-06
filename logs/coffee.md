@@ -9,8 +9,14 @@ title: coffee
   <em>denotes a particular favorite)</em>
 </span>
 
-**Dream Team**\\
-<span class="grey-text">Dollop Coffee</span>
+**Brothers Espresso**\\
+<span class="grey-text">Conscious Cup Coffee Roasters</span>
+
+**Toro**\\
+<span class="grey-text">Devoción Coffee</span>
+
+**El Sol**\\
+<span class="grey-text">Devoción Coffee</span>
 
 **1848**\\
 <span class="grey-text">Big Shoulders</span>

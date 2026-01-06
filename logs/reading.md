@@ -9,6 +9,17 @@ title: reading
   <em>denotes a particular favorite)</em>
 </span>
 
+## 2025
+
+**The Most Wonderful Crime of the Year**\\
+<span class="grey-text">Andy Weir \| 2025-12-31</span>
+
+**Convenience Store Woman**\\
+<span class="grey-text">Sakaya Murata \| 2025-12-12</span>
+
+**The Little Sparrow Murders**\\
+<span class="grey-text">Seishi Yokomizo \| 2025-12-03</span>
+
 **The Most Wonderful Crime of the Year**\\
 <span class="grey-text">Ally Carter \| 2025-11-09</span>
 
