@@ -51,11 +51,11 @@ Anyways, I figured I'd try to rank these in terms of my most favorite. Going to 
 
 [mxlxbxd]: https://fieldnotesbrand.com/products/m-x-l-x-b-x-d
 [xoxo]: https://fieldnotesbrand.com/products/xoxo-2018
-[factory_floor]: http://www.draplin.com/2013/12/now_shipping_ddc054_ddc_x_field_notes_factory_floor_memo_book.html
-[james_brand]: https://shop.thejamesbrand.com/products/field-notes
+[factory_floor]: https://web.archive.org/web/20240419000512/https://www.draplin.com/2013/12/now_shipping_ddc054_ddc_x_field_notes_factory_floor_memo_book.html
+[james_brand]: https://web.archive.org/web/20191206124226/https://shop.thejamesbrand.com/products/field-notes
 [wilco]: https://fieldnotesbrand.com/products/wilco
 
 [unexposed]: https://fieldnotesbrand.com/products/unexposed
-[field_museum]: https://store.fieldmuseum.org/product/Field_Notes_Field_Museum_Earth_Edition
+[field_museum]: https://web.archive.org/web/20191209221228/https://store.fieldmuseum.org/product/Field_Notes_Field_Museum_Earth_Edition
 [cold_horizon]: https://fieldnotesbrand.com/products/cold-horizon
 [nixon]: https://www.nixon.com/us/en/field-notes-3pk/C2483.html

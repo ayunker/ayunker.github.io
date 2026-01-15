@@ -67,7 +67,7 @@ enjoyed.
 
 
 
-[the_pot]: https://www.bialetti.us/coffee/stovetop/moka-express-c-1_7_22.html
+[the_pot]: https://en.wikipedia.org/wiki/Moka_pot
 [illy_classico]: https://www.illy.com/en-us/shop/coffee/ground-coffee/ground-espresso-coffee-medium-roast-classico/8842ST.html?cgid=57513
 [black_cat]: https://www.intelligentsiacoffee.com/black-cat-classic-espresso
 [unicorn_blood]: https://www.darkmattercoffee.com/products/unicorn-blood-espresso-blend

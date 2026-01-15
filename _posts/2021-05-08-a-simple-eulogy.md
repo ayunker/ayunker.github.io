@@ -39,5 +39,5 @@ a bank it would be immune. But now, in hindsight, this all seems like it was
 inevitable. With all the VC funding, incentives to cash out, need to grow grow
 grow, how could this have ended differently?
 
-[simple]: https://www.simple.com
+[simple]: https://web.archive.org/web/20210126021330/https://www.simple.com/
 [ynab]: https://www.youneedabudget.com/
