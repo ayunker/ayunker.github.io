@@ -9,9 +9,17 @@ title: reading
   <em>denotes a particular favorite)</em>
 </span>
 
+## 2026
+
+**The Ferryman and His Wife**\\
+<span class="grey-text">Frode Grytten \| 2026-01-17</span>
+
+**Dinner at the Night Library**\\
+<span class="grey-text">Hika Hirada \| 2026-01-10</span>
+
 ## 2025
 
-**The Most Wonderful Crime of the Year**\\
+**Project Hail Mary**\\
 <span class="grey-text">Andy Weir \| 2025-12-31</span>
 
 **Convenience Store Woman**\\

@@ -9,6 +9,9 @@ title: coffee
   <em>denotes a particular favorite)</em>
 </span>
 
+**Hair Bender**\\
+<span class="grey-text">Stumptown Coffee Roasters</span>
+
 **Brothers Espresso**\\
 <span class="grey-text">Conscious Cup Coffee Roasters</span>
 
