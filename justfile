@@ -15,8 +15,15 @@ promote:
 
 alias p := promote
 
-# current setup requires local server to be running
+# NOTE: current setup requires local server to be running
+# NOTE: otherwise it can't resolve relative links like /uses.html
 link_check:
 	lychee --base-url http://localhost:4000 \
 		--exclude 'jetpens\.com' \
 		_site/**/*.html \
+
+rcntly ED:
+	awk -v edition={{ED}} '{gsub("EDITION", edition); print}' templates/rcntly.md.tmpl > _drafts/rcntly-{{ED}}.md
+
+ssh:
+	doctl compute ssh rivendell
