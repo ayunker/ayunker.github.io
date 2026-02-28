@@ -1,7 +1,7 @@
 ---
 layout: post
-title: london trip part 1
-categories: london
+title: london trip part 1 (2024)
+categories: london travel
 date: 2024-12-20
 ---
 This October, Kat and I spent a week in London on holiday. It's been somewhere

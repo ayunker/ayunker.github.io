@@ -1,7 +1,7 @@
 ---
 layout: post
-title: london trip part 2
-categories: london
+title: london trip part 2 (2024)
+categories: london travel
 date: 2026-01-13
 ---
 It's been... a while... since I posted [london trip part 1][ldn1]. I mean to
