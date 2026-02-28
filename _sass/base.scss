@@ -97,10 +97,12 @@ figure {
 }
 
 figcaption {
+  width: 100%;
   font-size: 0.9rem;
   color: var(--text-light);
   text-align: center;
   margin-bottom: 1rem;
+  font-style: italic;
 }
 
 pre {
@@ -128,17 +130,22 @@ hr {
 }
 
 .inline-img-container {
-  @media (min-width: 768px) {
-    display: flex;
-  }
+  width: 100%;
+  grid-column: 2/5 !important;
+  max-inline-size: none;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.inline-img-link {
+  flex: 0 1 45%;
+  padding-inline: 1%;
 }
 
 .inline-img {
-  @media (min-width: 768px) {
-    flex: auto;
-    max-width: 45%;
-  }
-  @media (max-width: 768px) {
-    max-width: 25rem; 
-  }
+  max-width: 100%;
+  max-inline-size: 100%;
 }
