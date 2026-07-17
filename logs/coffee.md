@@ -9,6 +9,9 @@ title: coffee
   <em>denotes a particular favorite)</em>
 </span>
 
+*I think this is getting discontinued. I may resurrect it later but for now
+it's not sparking joy.*
+
 **Hair Bender**\\
 <span class="grey-text">Stumptown Coffee Roasters</span>
 

@@ -11,6 +11,39 @@ title: reading
 
 ## 2026
 
+**The Correspondent**\\
+<span class="grey-text">Virginia Evans \| 2026-06-29</span>
+
+**I Deliver Parcels in Beijing**\\
+<span class="grey-text">Hu Anyan \| 2026-06-15</span>
+
+**How to Cheat Your Own Death**\\
+<span class="grey-text">Kristen Perrin \| 2026-05-23</span>
+
+**The Crying of Lot 49**\\
+<span class="grey-text">Thomas Pynchon \| 2026-05-15</span>
+
+**A Month in the Country**\\
+<span class="grey-text">JL Carr \| 2026-05-01</span>
+
+**This is How You Lose the Time War**\\
+<span class="grey-text">Amal El-Mohtar & Max Gladstone \| 2026-04-25</span>
+
+**A Wizard of Earthsea**\\
+<span class="grey-text">Ursula K. Le Guin \| 2026-04-08</span>
+
+**Rebecca**\\
+<span class="grey-text">Daphne du Maurier \| 2026-03-18</span>
+
+**Brave New World**\\
+<span class="grey-text">Aldous Huxley \| 2026-03-12</span>
+
+**God Emperor of Dune**\\
+<span class="grey-text">Frank Herbert \| 2026-02-17</span>
+
+**The Man in the Brown Suit**\\
+<span class="grey-text">Agatha Christie \| 2026-01-27</span>
+
 **The Ferryman and His Wife**\\
 <span class="grey-text">Frode Grytten \| 2026-01-17</span>
 
