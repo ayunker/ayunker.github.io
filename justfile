@@ -27,3 +27,6 @@ rcntly ED:
 
 ssh:
 	doctl compute ssh rivendell
+
+post_list:
+	fd . _posts/ | sed 's/_posts\///' | sed 's/.md$//'
