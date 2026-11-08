@@ -1,5 +1,6 @@
 server:
 	bundle exec jekyll serve --future --drafts
+alias s := server
 
 outdated: ## Shows outdated packages.
 	bundle outdated
