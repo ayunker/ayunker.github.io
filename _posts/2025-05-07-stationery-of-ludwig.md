@@ -125,6 +125,14 @@ stationery! And mysteries to solve, too.
 
 ---
 
+*Addendum (2026-11-21): We just finished series 2 this past week. There wasn't
+much new by way of stationery - the same notebooks, pens. But! Similar to
+series 1, the M10 is only on full display in the final episode. Visible in
+Ludwig's pocket all series long, but not on full resplendent display till the
+finale.*
+
+---
+
 [^m10]: One of my prouder achievements, of late.
 [^brokenwood]: I spied Detective Sims using one in [Brokenwood]. Once you know
     what you're looking for, you see them everywhere!
