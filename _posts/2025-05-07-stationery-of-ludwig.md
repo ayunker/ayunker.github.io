@@ -123,7 +123,7 @@ end he can easily replace it with the same.
 I can't wait for season 2, which will hopefully be filled with more exciting
 stationery! And mysteries to solve, too.
 
----
+<hr id="addendum" />
 
 *Addendum (2026-11-21): We just finished series 2 this past week. There wasn't
 much new by way of stationery - the same notebooks, pens. But! Similar to
